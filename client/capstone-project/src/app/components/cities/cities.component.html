@@ -1,0 +1,244 @@
+<app-navbar></app-navbar>
+<app-header></app-header>
+
+
+<div id="contenitore-car">
+
+  <!-- primo carousel -->
+
+  <h4>CAPITALI...</h4>
+  <div id="carousel1" class="carousel slide">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div class="carousel1 d-flex justify-content-around">
+          <div *ngFor="let city of cities | filterByCapital | slice:0:6">
+            <div class="card text-white" style="background-color: #26262a; width: 20rem; height: 17rem;">
+              <img src="{{ city.img }}" class="card-img-top" alt="Città">
+              <div class="card-body">
+                <button type="button" class="btn btn-outline-primary float-end mt-2" [routerLink]="['/city']">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                    class="bi bi-plus-circle" viewBox="0 0 16 16">
+                    <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+                    <path
+                      d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
+                  </svg>
+                </button>
+                <h5 class="card-title">{{ city.name }}</h5>
+                <p class="card-text fst-italic">{{ city.location }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <div class="d-flex justify-content-around">
+          <div *ngFor="let city of cities | filterByCapital | slice:6:12">
+            <div *ngIf="city.capital" class="card text-white"
+              style="background-color: #26262a; width: 20rem; height: 17rem;">
+              <img src="{{ city.img }}" class="card-img-top" alt="Città">
+              <div class="card-body">
+                <button type="button" class="btn btn-outline-primary float-end mt-2" [routerLink]="['/city']">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                    class="bi bi-plus-circle" viewBox="0 0 16 16">
+                    <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+                    <path
+                      d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
+                  </svg>
+                </button>
+                <h5 class="card-title">{{ city.name }}</h5>
+                <p class="card-text fst-italic">{{ city.location }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carousel1" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carousel1" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+  <hr>
+
+  <!-- top ten -->
+
+  <h4>PIU' POPOLARI...</h4>
+  <div id="carouselp" class="carousel slide">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <div class="d-flex justify-content-around">
+          <ol class="d-flex">
+            <li class="mx-5" *ngFor="let city of popular.slice(0, 5)">
+              <div class="card text-white" style="background-color: #26262a; width: 20rem; height: 17rem;">
+                <img src="{{ city.img }}" class="card-img-top" alt="Città">
+                <div class="card-body">
+                  <button type="button" class="btn btn-outline-primary float-end mt-2" [routerLink]="['/city']"><svg
+                      xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                      class="bi bi-plus-circle" viewBox="0 0 16 16">
+                      <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+                      <path
+                        d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
+                    </svg></button>
+                  <h5 class="card-title">{{ city.name }}</h5>
+                  <p class="card-text fst-italic">{{ city.location }}</p>
+                </div>
+              </div>
+            </li>
+          </ol>
+        </div>
+        <div class="carousel-item active">
+          <div class="d-flex justify-content-around">
+            <ol start="6" class="d-flex">
+              <li class="mx-5" *ngFor="let city of popular.slice(5, 10)">
+                <div class="card text-white" style="background-color: #26262a; width: 20rem; height: 17rem;">
+                  <img src="{{ city.img }}" class="card-img-top" alt="Città">
+                  <div class="card-body">
+                    <button type="button" class="btn btn-outline-primary float-end mt-2" [routerLink]="['/city']">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                        class="bi bi-plus-circle" viewBox="0 0 16 16">
+                        <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+                        <path
+                          d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
+                      </svg>
+                    </button>
+                    <h5 class="card-title">{{ city.name }}</h5>
+                    <p class="card-text fst-italic">{{ city.location }}</p>
+                  </div>
+                </div>
+              </li>
+            </ol>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+
+
+    <!-- secondo carousel -->
+
+    <h4>LOCALITA' ESTIVE...</h4>
+    <div id="carousel2" class="carousel slide">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div class="d-flex justify-content-around">
+            <div *ngFor="let city of cities | filterBySummer | slice:0:6">
+              <div *ngIf="!city.winter" class="card text-white"
+                style="background-color: #26262a; width: 20rem; height: 17rem;">
+                <img src="{{ city.img }}" class="card-img-top" alt="Città">
+                <div class="card-body">
+                  <button type="button" class="btn btn-outline-primary float-end mt-2" [routerLink]="['/city']">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                      class="bi bi-plus-circle" viewBox="0 0 16 16">
+                      <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+                      <path
+                        d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
+                    </svg>
+                  </button>
+                  <h5 class="card-title">{{ city.name }}</h5>
+                  <p class="card-text fst-italic">{{ city.location }}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item active">
+          <div class="d-flex justify-content-around">
+            <div *ngFor="let city of cities | filterBySummer | slice:6:12">
+              <div *ngIf="!city.winter" class="card text-white"
+                style="background-color: #26262a; width: 20rem; height: 17rem;">
+                <img src="{{ city.img }}" class="card-img-top" alt="Città">
+                <div class="card-body">
+                  <button type="button" class="btn btn-outline-primary float-end mt-2" [routerLink]="['/city']">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                      class="bi bi-plus-circle" viewBox="0 0 16 16">
+                      <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+                      <path
+                        d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
+                    </svg>
+                  </button>
+                  <h5 class="card-title">{{ city.name }}</h5>
+                  <p class="card-text fst-italic">{{ city.location }}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carousel2" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carousel2" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+    <hr>
+
+    <!-- terzo carousel -->
+
+    <h4>LOCALITA' INVERNALI...</h4>
+    <div id="carousel3" class="carousel slide">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div class="d-flex justify-content-around">
+            <div *ngFor="let city of cities | filterByWinter | slice:0:6">
+              <div *ngIf="city.winter" class="card text-white"
+                style="background-color: #26262a; width: 20rem; height: 17rem;">
+                <img src="{{ city.img }}" class="card-img-top" alt="Città">
+                <div class="card-body">
+                  <button type="button" class="btn btn-outline-primary float-end mt-2" [routerLink]="['/city']">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                      class="bi bi-plus-circle" viewBox="0 0 16 16">
+                      <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+                      <path
+                        d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
+                    </svg>
+                  </button>
+                  <h5 class="card-title">{{ city.name }}</h5>
+                  <p class="card-text fst-italic">{{ city.location }}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="d-flex justify-content-around">
+            <div *ngFor="let city of cities | filterByWinter | slice:6:12">
+              <div *ngIf="city.winter" class="card text-white"
+                style="background-color: #26262a; width: 20rem; height: 17rem;">
+                <img src="{{ city.img }}" class="card-img-top" alt="Città">
+                <div class="card-body">
+                  <button type="button" class="btn btn-outline-primary float-end mt-2" [routerLink]="['/city']">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                      class="bi bi-plus-circle" viewBox="0 0 16 16">
+                      <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+                      <path
+                        d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
+                    </svg>
+                  </button>
+                  <h5 class="card-title">{{ city.name }}</h5>
+                  <p class="card-text fst-italic">{{ city.location }}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carousel3" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carousel3" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+    <hr class="footer">
+  </div>
+
+  <app-footer></app-footer>

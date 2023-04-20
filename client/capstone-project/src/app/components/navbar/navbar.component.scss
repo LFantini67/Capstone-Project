@@ -1,0 +1,22 @@
+#logo {
+  height: 50px;
+  margin-left: -14%;
+}
+
+.btn {
+  height: 40px;
+}
+
+.btn span:last-child {
+  opacity: 0;
+}
+
+.bi {
+  height: 20px;
+}
+
+.navbar {
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+}
