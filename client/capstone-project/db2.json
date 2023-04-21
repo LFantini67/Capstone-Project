@@ -1267,452 +1267,542 @@
     {
       "id": 201,
       "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "address": "Piazza Venezia",
+      "city_id": 1
     },
     {
       "id": 202,
       "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 1
     },
     {
       "id": 203,
       "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "address": "Lungotevere Castello, 50",
+      "city_id": 1
     },
     {
       "id": 204,
       "name": "Ponte Carlo",
-      "address": "Karluv most, 110"
+      "address": "Karluv most, 110",
+      "city_id": 2
     },
     {
       "id": 205,
       "name": "Orologio Astronomico",
-      "address": "Staromestske nam, 1"
+      "address": "Staromestske nam, 1",
+      "city_id": 2
     },
     {
       "id": 206,
       "name": "Casa Danzante",
-      "address": "Jiraskovo nàm, 1981"
+      "address": "Jiraskovo nàm, 1981",
+      "city_id": 2
     },
     {
       "id": 207,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Porta di Brandeburgo",
+      "address": "Piazza Venezia",
+      "city_id": 3
     },
     {
       "id": 208,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Palazzo del Reichstag",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 3
     },
     {
       "id": 209,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Torre della televisione di Berlino",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 3
     },
     {
       "id": 210,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Parlamento di Budapest",
+      "address": "Piazza Venezia",
+      "city_id": 4
     },
     {
       "id": 211,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Bastione dei pescatori",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 4
     },
     {
       "id": 212,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Piazza degli Eroi",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 4
     },
     {
       "id": 213,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Rijksmuseum",
+      "address": "Piazza Venezia",
+      "city_id": 5
     },
     {
       "id": 214,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Van Gogh Museum",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 5
     },
     {
       "id": 215,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Casa di Anna Frank",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 5
     },
     {
       "id": 216,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Museo del Louvre",
+      "address": "Piazza Venezia",
+      "city_id": 6
     },
     {
       "id": 217,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Torre Effeil",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 6
     },
     {
       "id": 218,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Arco di Trionfo",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 6
     },
     {
       "id": 219,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Castello di Edimburgo",
+      "address": "Piazza Venezia",
+      "city_id": 7
     },
     {
       "id": 220,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Museo Nazionale Scozzese",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 7
     },
     {
       "id": 221,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Holyrood Palace",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 7
     },
     {
       "id": 222,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Torre di Londra",
+      "address": "Piazza Venezia",
+      "city_id": 8
     },
     {
       "id": 223,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "London Eye",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 8
     },
     {
       "id": 224,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Cattedrale di San Paolo",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 8
     },
     {
       "id": 225,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Palazzo di Schonbrunn",
+      "address": "Piazza Venezia",
+      "city_id": 9
     },
     {
       "id": 226,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Stephansdom",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 9
     },
     {
       "id": 227,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Hofburg",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 9
     },
     {
       "id": 228,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Giardini di Tivoli",
+      "address": "Piazza Venezia",
+      "city_id": 10
     },
     {
       "id": 229,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Palazzo di Christiansborg",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 10
     },
     {
       "id": 230,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Castello di Rosenborg",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 10
     },
     {
       "id": 231,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Museo Egizio",
+      "address": "Piazza Venezia",
+      "city_id": 11
     },
     {
       "id": 232,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Mole Antonelliana",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 11
     },
     {
       "id": 233,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Piazza San Carlo",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 11
     },
     {
       "id": 234,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Ponte di Rialto",
+      "address": "Piazza Venezia",
+      "city_id": 12
     },
     {
       "id": 235,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Piazza San Marco",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 12
     },
     {
       "id": 236,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Palazzo Ducale",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 12
     },
     {
       "id": 237,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Guinnes Storehouse",
+      "address": "Piazza Venezia",
+      "city_id": 13
     },
     {
       "id": 238,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Castello di Dublino",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 13
     },
     {
       "id": 239,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Cattedrale di San Patrizio",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 13
     },
     {
       "id": 240,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Galleria degli Uffizi",
+      "address": "Piazza Venezia",
+      "city_id": 14
     },
     {
       "id": 241,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Ponte Vecchio",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 14
     },
     {
       "id": 242,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Cattedrale di Santa Maria del Fiore",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 14
     },
     {
       "id": 243,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Cattedrale di Zagabria",
+      "address": "Piazza Venezia",
+      "city_id": 15
     },
     {
       "id": 244,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "St. Mark's Church",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 15
     },
     {
       "id": 245,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Torre Lotrscak",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 15
     },
     {
       "id": 246,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Castello di Sao Jorge",
+      "address": "Piazza Venezia",
+      "city_id": 16
     },
     {
       "id": 247,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Torre de Belem",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 16
     },
     {
       "id": 248,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Monastero dos Jeronimos",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 16
     },
     {
       "id": 249,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Duomo di Colonia",
+      "address": "Piazza Venezia",
+      "city_id": 17
     },
     {
       "id": 250,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Museo Ludwig",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 17
     },
     {
       "id": 251,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Museo del cioccolato Imhoff",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 17
     },
     {
       "id": 252,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Sagrada Familia",
+      "address": "Piazza Venezia",
+      "city_id": 18
     },
     {
       "id": 253,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Parco Guell",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 18
     },
     {
       "id": 254,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Camp Nou",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 18
     },
     {
       "id": 255,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Alcazaba",
+      "address": "Piazza Venezia",
+      "city_id": 19
     },
     {
       "id": 256,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Cattedrale di Malaga",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 19
     },
     {
       "id": 257,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Mercato Centrale di Atarazanas",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 19
     },
     {
       "id": 258,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "mercado Central",
+      "address": "Piazza Venezia",
+      "city_id": 20
     },
     {
       "id": 259,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Lonja de la Seda",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 20
     },
     {
       "id": 260,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Bioparc Valencia",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 20
     },
     {
       "id": 261,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Villa Comunale di Sorrento",
+      "address": "Piazza Venezia",
+      "city_id": 21
     },
     {
       "id": 262,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Bagni Regina Giovanna",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 21
     },
     {
       "id": 263,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Vallone dei Mulini",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 21
     },
     {
       "id": 264,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Fontana Greca",
+      "address": "Piazza Venezia",
+      "city_id": 22
     },
     {
       "id": 265,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Spiaggia della Purità",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 22
     },
     {
       "id": 266,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Castello Angioino",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 22
     },
     {
       "id": 267,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Acropoli di Atene",
+      "address": "Piazza Venezia",
+      "city_id": 23
     },
     {
       "id": 268,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Partenone",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 23
     },
     {
       "id": 269,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Tempio di Zeus Olimpio",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 23
     },
     {
       "id": 270,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Super Paradise Beach Club",
+      "address": "Piazza Venezia",
+      "city_id": 24
     },
     {
       "id": 271,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Panagia Paraportiani",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 24
     },
     {
       "id": 272,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Agios Sostis Beach",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 24
     },
     {
       "id": 273,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Ponte Dom Luis I",
+      "address": "Piazza Venezia",
+      "city_id": 25
     },
     {
       "id": 274,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Porto Sao Bento",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 25
     },
     {
       "id": 275,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Libreria Lello",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 25
     },
     {
       "id": 276,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Collina del Castello",
+      "address": "Piazza Venezia",
+      "city_id": 26
     },
     {
       "id": 277,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Cathedrale Saint-Nicolas de Nice",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 26
     },
     {
       "id": 278,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Parc Phoenix",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 26
     },
     {
       "id": 279,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Jet d'eau",
+      "address": "Piazza Venezia",
+      "city_id": 27
     },
     {
       "id": 280,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Cattedrale di Ginevra",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 27
     },
     {
       "id": 281,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Palazzo delle Nazioni",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 27
     },
     {
       "id": 282,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Piazza del Plebiscito",
+      "address": "Piazza Venezia",
+      "city_id": 28
     },
     {
       "id": 283,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Castel dell'Ovo",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 28
     },
     {
       "id": 284,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Catacombe di San Gennaro",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 28
     },
     {
       "id": 285,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Cala Benirras",
+      "address": "Piazza Venezia",
+      "city_id": 29
     },
     {
       "id": 286,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Cala Bassa",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 29
     },
     {
       "id": 287,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "Cala Saladeta",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 29
     },
     {
       "id": 288,
-      "name": "Altare della Patria",
-      "address": "Piazza Venezia"
+      "name": "Notre-Dame-de-la-Garde",
+      "address": "Piazza Venezia",
+      "city_id": 30
     },
     {
       "id": 289,
-      "name": "Colosseo",
-      "address": "Piazza del Colosseo, 1"
+      "name": "Cattedrale di Marsiglia",
+      "address": "Piazza del Colosseo, 1",
+      "city_id": 30
     },
     {
       "id": 290,
-      "name": "Castel Sant'Angelo",
-      "address": "Lungotevere Castello, 50"
+      "name": "La Vieille Charite",
+      "address": "Lungotevere Castello, 50",
+      "city_id": 30
     }
   ],
   "enjoys": [
@@ -2234,10 +2324,7 @@
       "author": "",
       "name": "",
       "rating": 1,
-      "cuisine": [
-        "",
-        ""
-      ],
+      "cuisine": "",
       "address": "",
       "account_id": 1,
       "restaurant_id": 1

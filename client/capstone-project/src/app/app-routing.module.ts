@@ -10,16 +10,15 @@ import { CitiesComponent } from './components/cities/cities.component';
 const routes: Routes = [
   {
     path: '',
-    component: LogInComponent
+    component: LogInComponent,
   },
   {
     path: 'cities',
-    component: CitiesComponent
+    component: CitiesComponent,
   },
   {
-    path: 'city',
+    path: 'city/:id',
     component: CityComponent,
-
   }
 ];
 

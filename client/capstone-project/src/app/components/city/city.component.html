@@ -1,6 +1,6 @@
 <app-navbar></app-navbar>
 
-<div *ngFor="let city of cities">
+<div *ngIf="city">
   <div div class="card-c text-white" style="background-color: #26262a;">
     <div class="card-body">
       <h1 class="card-title">{{ city.name }}</h1>
@@ -12,11 +12,11 @@
 <hr>
 
 <h4>RISTORANTI...</h4>
-<div id="carousel1" class="carousel slide">
+<div id="carousel1" *ngIf="restaurants != undefined && restaurants != null" class="carousel slide">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <div class="d-flex justify-content-around">
-        <div *ngFor="let restaurant of restaurants.slice(0, 3)">
+        <div *ngFor="let restaurant of restaurants">
           <div class="card mb-3 text-white" style="background-color: #26262a; max-width: 500px;">
             <div class="row g-0">
               <div class="col-md-4">
@@ -56,11 +56,11 @@
 <hr>
 
 <h4>LUOGHI DI INTERESSE...</h4>
-<div id="carousel1" class="carousel slide">
+<div id="carousel1" *ngIf="interests != undefined && interests != null" class="carousel slide">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <div class="d-flex justify-content-around">
-        <div *ngFor="let interest of interests.slice(0, 3)">
+        <div *ngFor="let interest of interests">
           <div class="card mb-3 text-white" style="background-color: #26262a; max-width: 500px;">
             <div class="row g-0">
               <div class="col-md-4">
@@ -99,11 +99,11 @@
 <hr>
 
 <h4>DIVERTIMENTO NOTTURNO...</h4>
-<div id="carousel1" class="carousel slide">
+<div id="carousel1" *ngIf="enjoys != undefined && enjoys != null" class="carousel slide">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <div class="d-flex justify-content-around">
-        <div *ngFor="let enjoy of enjoys.slice(0, 3)">
+        <div *ngFor="let enjoy of enjoys">
           <div class="card mb-3 text-white" style="background-color: #26262a; max-width: 500px;">
             <div class="row g-0">
               <div class="col-md-4">
@@ -495,5 +495,3 @@
   </div>
 </div>
 -->
-
-

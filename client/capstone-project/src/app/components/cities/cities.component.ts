@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { CitiesService } from 'src/app/services/cities.service';
 import { City } from 'src/app/interfaces/city.interface';
@@ -10,7 +10,9 @@ import { City } from 'src/app/interfaces/city.interface';
 })
 export class CitiesComponent implements OnInit {
 
-  cities: any;
+  cities: City [] = []
+
+  //cities: any;
 
   popularArrayCity: City[] = [];
   popular: City[] = [];

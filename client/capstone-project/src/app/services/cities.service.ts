@@ -7,11 +7,15 @@ import { Review } from '../interfaces/review.interface';
 import { ReviewR } from '../interfaces/review-r.interface';
 import { ReviewI } from '../interfaces/review-i.interface';
 import { ReviewE } from '../interfaces/review-e.interface';
+import { City } from '../interfaces/city.interface';
 
 @Injectable({
   providedIn: 'root'
 })
 export class CitiesService {
+
+  allCities: City[] = []
+  url = 'http://localhost:4201/cities'
 
   constructor(private http: HttpClient) { }
 
@@ -19,6 +23,13 @@ export class CitiesService {
     this.http.get('http://localhost:4201/cities').subscribe((x) => {
       console.log(x)
       return x
+    })
+  }
+
+  //flavio
+  getCitiesById(id: number) {
+    return this.allCities.find((c) => {
+      return (c.id == id)
     })
   }
 
