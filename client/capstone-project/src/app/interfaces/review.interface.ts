@@ -7,5 +7,6 @@ export interface Review {
   rating: number
   account_id: number
   city_id: number
+  type: string
 
 }

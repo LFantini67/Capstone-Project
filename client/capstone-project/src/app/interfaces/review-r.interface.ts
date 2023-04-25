@@ -4,7 +4,7 @@ export interface ReviewR {
   author: string
   name: string
   rating: number
-  cuisine: []
+  cuisine: string
   address: string
   account_id: number
   restaurant_id: number

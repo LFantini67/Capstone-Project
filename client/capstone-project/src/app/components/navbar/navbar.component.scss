@@ -1,14 +1,6 @@
 #logo {
   height: 50px;
-  margin-left: -10%;
-}
-
-.btn {
-  height: 40px;
-}
-
-.btn span:last-child {
-  opacity: 0;
+  margin-left: -55%;
 }
 
 .bi {
@@ -18,5 +10,45 @@
 .navbar {
   position: sticky;
   top: 0px;
-  z-index: 1;
+  z-index: 99;
+}
+
+
+.button-flipper {
+  transition: .8s cubic-bezier(.775, .07, .575, .995);
+  transform-style: preserve-3d;
+  position: absolute;
+  &:hover {
+    transform: rotateX(180deg);
+  }
+  margin-left: 93%;
+}
+
+.front-button {
+  cursor: pointer;
+  height: 40px;
+  width: 100px;
+  background-color: black;
+  border: solid 1.5px #0c6efd;
+  font-size: 1em;
+  color: #fff;
+  backface-visibility: hidden;
+  z-index: 2;
+  transform: rotateX(0deg);
+  position: absolute;
+  border-radius: 10px;
+}
+
+.back-button {
+  cursor: pointer;
+  height: 40px;
+  width: 100px;
+  background-color: #0c6efd;
+  border: solid 1.5px #0c6efd;
+  font-size: 1em;
+  color: #fff;
+  backface-visibility: hidden;
+  transform: rotateX(-180deg);
+  position: relative;
+  border-radius: 10px;
 }

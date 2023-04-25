@@ -52,7 +52,8 @@ export class CityComponent implements OnInit {
     title: "",
     rating: 1,
     account_id: 0,
-    city_id: 0
+    city_id: 0,
+    type: ""
   }
 
   reviewUpdated: Review = {
@@ -62,7 +63,8 @@ export class CityComponent implements OnInit {
     title: "",
     rating: 1,
     account_id: 0,
-    city_id: 0
+    city_id: 0,
+    type: ""
   }
 
   constructor(private router: ActivatedRoute, private citySrv: CitiesService, private http: HttpClient) { }
@@ -122,7 +124,7 @@ export class CityComponent implements OnInit {
     this.mostra = false
   }
 
-  provaRecensione() {
+  provaRecensione(type: string) {
     let data = new Date();
     let data2 = data.getTime()
     console.log(data2)
@@ -134,7 +136,8 @@ export class CityComponent implements OnInit {
       title: this.titolo,
       rating: this.voto,
       account_id: this.account2.user.id,
-      city_id: this.cities.id
+      city_id: this.cityId,
+      type: type
     }
 
     console.log(this.review)

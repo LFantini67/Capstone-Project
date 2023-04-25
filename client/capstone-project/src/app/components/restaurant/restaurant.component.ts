@@ -21,7 +21,7 @@ export class RestaurantComponent implements OnInit {
 
   name: string = "";
   rating: number = 1;
-  cuisine: string[] = [];
+  cuisine: string = "";
   address: string = "";
 
   modificaReview = 0;
@@ -38,7 +38,7 @@ export class RestaurantComponent implements OnInit {
     author: "",
     name: "",
     rating: 1,
-    cuisine: [],
+    cuisine: "",
     address: "",
     account_id: 1,
     restaurant_id: 1
@@ -49,7 +49,7 @@ export class RestaurantComponent implements OnInit {
     author: "",
     name: "",
     rating: 1,
-    cuisine: [],
+    cuisine: "",
     address: "",
     account_id: 1,
     restaurant_id: 1
@@ -95,7 +95,7 @@ export class RestaurantComponent implements OnInit {
       author: this.account2.user.name,
       name: this.name,
       rating: this.rating,
-      cuisine: [],
+      cuisine: this.cuisine,
       address: this.address,
       account_id: this.account2.user.id,
       restaurant_id: this.restaurant.id
@@ -111,7 +111,7 @@ export class RestaurantComponent implements OnInit {
 
     this.name = "";
     this.rating = 1;
-    this.cuisine = [];
+    this.cuisine = "";
     this.address = "";
 
   }
@@ -131,7 +131,7 @@ export class RestaurantComponent implements OnInit {
   editReview(review: ReviewR) {
     this.name = review.name;
     this.rating = review.rating;
-    this.cuisine = [];
+    this.cuisine = review.cuisine;
     this.address = review.address;
 
     this.modificaReview = review.id;
@@ -142,7 +142,7 @@ export class RestaurantComponent implements OnInit {
     this.reviewUpdated.author = this.account2.user.name;
     this.reviewUpdated.name = this.nameM;
     this.reviewUpdated.rating = this.ratingM;
-    this.reviewUpdated.cuisine = [];
+    this.reviewUpdated.cuisine = this.cuisineM;
     this.reviewUpdated.address = this.addressM;
     this.reviewUpdated.account_id = this.account2.user.id;
     this.reviewUpdated.restaurant_id = review.restaurant_id;
@@ -158,12 +158,12 @@ export class RestaurantComponent implements OnInit {
 
     this.name = "";
     this.rating = 1;
-    this.cuisine = [];
+    this.cuisine = "";
     this.address = "";
 
     this.nameM = "";
     this.ratingM = 1;
-    this.cuisineM = [];
+    this.cuisineM = "";
     this.addressM = "";
 
     this.modificaReview = 0;

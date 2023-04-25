@@ -276,10 +276,7 @@
       "id": 101,
       "name": "Pipero Roma",
       "vote_average": 4.5,
-      "cuisine": [
-        "Italiana",
-        "Pesce"
-      ],
+      "cuisine": "Italiana, Pesce",
       "address": "Corso Vittorio Emanuele II, 250",
       "city_id": 1
     },
@@ -287,10 +284,7 @@
       "id": 102,
       "name": "Imàgo",
       "vote_average": 4.5,
-      "cuisine": [
-        "Italiana",
-        "Mediterranea"
-      ],
+      "cuisine": "Italiana, Mediterranea",
       "address": "Piazza della Trinità Dei Monti, 6",
       "city_id": 1
     },
@@ -298,10 +292,7 @@
       "id": 103,
       "name": "Per Me Giulio Terrinoni",
       "vote_average": 4.5,
-      "cuisine": [
-        "Italiana",
-        "Pesce"
-      ],
+      "cuisine": "Italiana, Pesce",
       "address": "vicolo del Malpasso, 9",
       "city_id": 1
     },
@@ -309,10 +300,7 @@
       "id": 104,
       "name": "Field Restaurant",
       "vote_average": 4.5,
-      "cuisine": [
-        "Europea",
-        "Ceca"
-      ],
+      "cuisine": "Europea, Ceca",
       "address": "U Milosrdynch, 12",
       "city_id": 2
     },
@@ -320,10 +308,7 @@
       "id": 105,
       "name": "La Degustation Boheme Bourgeoise",
       "vote_average": 4.5,
-      "cuisine": [
-        "Europea",
-        "Ceca"
-      ],
+      "cuisine": "Europea, Ceca",
       "address": "Hastalska, 753",
       "city_id": 2
     },
@@ -331,10 +316,7 @@
       "id": 106,
       "name": "The Eatery",
       "vote_average": 5,
-      "cuisine": [
-        "Europea",
-        "Ceca"
-      ],
+      "cuisine": "Europea, Ceca",
       "address": "U Uranie, 18",
       "city_id": 2
     },
@@ -342,10 +324,7 @@
       "id": 107,
       "name": "Restaurant Bieberbau",
       "vote_average": 4.5,
-      "cuisine": [
-        "Tedesca",
-        "Centro europea"
-      ],
+      "cuisine": "Tedesca, Centro europea",
       "address": "Durlacher Str., 15",
       "city_id": 3
     },
@@ -353,10 +332,7 @@
       "id": 108,
       "name": "Golvet Restaurant",
       "vote_average": 4.5,
-      "cuisine": [
-        "Bar",
-        "Europea"
-      ],
+      "cuisine": "Bar, Europea",
       "address": "Potsdamer Str., 58",
       "city_id": 3
     },
@@ -364,10 +340,7 @@
       "id": 109,
       "name": "Cookies Cream",
       "vote_average": 4.5,
-      "cuisine": [
-        "Europea",
-        "Contemporanea"
-      ],
+      "cuisine": "Europea, Contemporanea",
       "address": "Behrenstr, 55",
       "city_id": 3
     },
@@ -375,10 +348,7 @@
       "id": 110,
       "name": "Babel Budapest",
       "vote_average": 4.5,
-      "cuisine": [
-        "Europea",
-        "Centro europea"
-      ],
+      "cuisine": "Europea, Centro europea",
       "address": "Piarista koz, 2",
       "city_id": 4
     },
@@ -386,10 +356,7 @@
       "id": 111,
       "name": "Costes Restaurant",
       "vote_average": 4.5,
-      "cuisine": [
-        "Internazionale",
-        "Europea"
-      ],
+      "cuisine": "Internazionale, Europea",
       "address": "Ràday utca, 4",
       "city_id": 4
     },
@@ -397,10 +364,7 @@
       "id": 112,
       "name": "Borkonyha WineKitchen",
       "vote_average": 4.5,
-      "cuisine": [
-        "Internazionale",
-        "Europea"
-      ],
+      "cuisine": "Internazionale, Europea",
       "address": "Sas utca, 3",
       "city_id": 4
     },
@@ -408,10 +372,7 @@
       "id": 113,
       "name": "Restaurant Bougainville",
       "vote_average": 5,
-      "cuisine": [
-        "Internazionale",
-        "Europea"
-      ],
+      "cuisine": "Internazionale, Europea",
       "address": "Dam 27 In hotel TwentySeven, 1012",
       "city_id": 5
     },
@@ -419,10 +380,7 @@
       "id": 114,
       "name": "MOS Amsterdam",
       "vote_average": 4.5,
-      "cuisine": [
-        "Francese",
-        "Pesce"
-      ],
+      "cuisine": "Francese, Pesce",
       "address": "IJdok 185, 1013",
       "city_id": 5
     },
@@ -430,10 +388,7 @@
       "id": 115,
       "name": "Restaurant Vinkeles",
       "vote_average": 4.5,
-      "cuisine": [
-        "Francese",
-        "Internazionale"
-      ],
+      "cuisine": "Francese, Internazionale",
       "address": "Keizersgracht 384 The Dylan Amsterdam, 1016",
       "city_id": 5
     },
@@ -441,10 +396,7 @@
       "id": 116,
       "name": "114 Faubourg",
       "vote_average": 4.5,
-      "cuisine": [
-        "Francese",
-        "Europea"
-      ],
+      "cuisine": "Francese, Europea",
       "address": "114 rue du Faubourg Saint Honore",
       "city_id": 6
     },
@@ -452,10 +404,7 @@
       "id": 117,
       "name": "ImàgPur' - Jean-Francois Rouquette",
       "vote_average": 5,
-      "cuisine": [
-        "Francese",
-        "Europea"
-      ],
+      "cuisine": "Francese, Europea",
       "address": "5 rue de la Paix Park Hyatt Paris",
       "city_id": 6
     },
@@ -463,10 +412,7 @@
       "id": 118,
       "name": "ASPIC",
       "vote_average": 5,
-      "cuisine": [
-        "Francese",
-        "Pesce"
-      ],
+      "cuisine": "Francese, Pesce",
       "address": "24 rue de la Tour D Auvergne",
       "city_id": 6
     },
@@ -474,10 +420,7 @@
       "id": 119,
       "name": "The Kitchin",
       "vote_average": 4.5,
-      "cuisine": [
-        "Francese",
-        "Europea"
-      ],
+      "cuisine": "Francese, Europea",
       "address": "78 commercial Quay",
       "city_id": 7
     },
@@ -485,10 +428,7 @@
       "id": 120,
       "name": "Restaurant Martin Wishart",
       "vote_average": 4.5,
-      "cuisine": [
-        "Francese",
-        "Europea"
-      ],
+      "cuisine": "Francese, Europea",
       "address": "54 Shore",
       "city_id": 7
     },
@@ -496,10 +436,7 @@
       "id": 121,
       "name": "Condita",
       "vote_average": 5,
-      "cuisine": [
-        "Internazionale",
-        "Contemporanea"
-      ],
+      "cuisine": "Internazionale, Contemporanea",
       "address": "15 Salisbury Place",
       "city_id": 7
     },
@@ -507,10 +444,7 @@
       "id": 122,
       "name": "Frog By Adam Handling",
       "vote_average": 4.5,
-      "cuisine": [
-        "Europea",
-        "Britannica"
-      ],
+      "cuisine": "Europea, Britannica",
       "address": "34-38 Southampton Street Covent Garden",
       "city_id": 8
     },
@@ -518,10 +452,7 @@
       "id": 123,
       "name": "The Five Fields",
       "vote_average": 5,
-      "cuisine": [
-        "Europea",
-        "Britannica"
-      ],
+      "cuisine": "Europea, Britannica",
       "address": "8-9 Blacklands Terrace",
       "city_id": 8
     },
@@ -529,10 +460,7 @@
       "id": 124,
       "name": "Trinity Restaurant",
       "vote_average": 4.5,
-      "cuisine": [
-        "Europea",
-        "Britannica"
-      ],
+      "cuisine": "Europea, Britannica",
       "address": "4 The Polygon",
       "city_id": 8
     },
@@ -540,10 +468,7 @@
       "id": 125,
       "name": "Apron",
       "vote_average": 5,
-      "cuisine": [
-        "Austriaca",
-        "Internazionale"
-      ],
+      "cuisine": "Austriaca, Internazionale",
       "address": "Am Heumarkt, 35",
       "city_id": 9
     },
@@ -551,10 +476,7 @@
       "id": 126,
       "name": "Edvard",
       "vote_average": 4.5,
-      "cuisine": [
-        "Internazionale",
-        "Europea"
-      ],
+      "cuisine": "Internazionale, Europea",
       "address": "Schottenring, 24",
       "city_id": 9
     },
@@ -562,10 +484,7 @@
       "id": 127,
       "name": "TIAN Restaurant Wien",
       "vote_average": 4.5,
-      "cuisine": [
-        "Europea",
-        "Salutistica"
-      ],
+      "cuisine": "Europea, Salutistica",
       "address": "Himmelpfortgasse, 23",
       "city_id": 9
     },
@@ -573,10 +492,7 @@
       "id": 128,
       "name": "Pizzeria Mamemi & Wine Bar",
       "vote_average": 5,
-      "cuisine": [
-        "Italiana",
-        "Pizza"
-      ],
+      "cuisine": "Italiana, Pizza",
       "address": "Mysundegade, 28",
       "city_id": 10
     },
@@ -584,10 +500,7 @@
       "id": 129,
       "name": "Restaurant Tight",
       "vote_average": 4.5,
-      "cuisine": [
-        "Barbecue",
-        "Per vegetariani"
-      ],
+      "cuisine": "Barbecue, Per vegetariani",
       "address": "Hyskenstraede, 10",
       "city_id": 10
     },
@@ -595,10 +508,7 @@
       "id": 130,
       "name": "Sporvejen",
       "vote_average": 4.5,
-      "cuisine": [
-        "Americana",
-        "Bar"
-      ],
+      "cuisine": "Americana, Bar",
       "address": "Graabroedretorv, 17",
       "city_id": 10
     },
@@ -606,10 +516,7 @@
       "id": 131,
       "name": "Condividere",
       "vote_average": 4.5,
-      "cuisine": [
-        "Italiana",
-        "Mediterranea"
-      ],
+      "cuisine": "Italiana, Mediterranea",
       "address": "Via Bologna, 20",
       "city_id": 11
     },
@@ -617,10 +524,7 @@
       "id": 132,
       "name": "Cannavacciuolo Bistrot Torino",
       "vote_average": 4.5,
-      "cuisine": [
-        "Italiana",
-        "Pesce"
-      ],
+      "cuisine": "Italiana, Pesce",
       "address": "Via Umberto Cosmo, 6",
       "city_id": 11
     },
@@ -628,10 +532,7 @@
       "id": 133,
       "name": "Il Ristorante del Cambio",
       "vote_average": 4,
-      "cuisine": [
-        "Italiana",
-        "Europea"
-      ],
+      "cuisine": "Italiana, Europea",
       "address": "Piazza Carignano, 2",
       "city_id": 11
     },
@@ -639,10 +540,7 @@
       "id": 134,
       "name": "Ristorante Wistèria",
       "vote_average": 4.5,
-      "cuisine": [
-        "Italiana",
-        "Pesce"
-      ],
+      "cuisine": "Italiana, Pesce",
       "address": "San Polo, 2908",
       "city_id": 12
     },
@@ -650,10 +548,7 @@
       "id": 135,
       "name": "Ristorante Local",
       "vote_average": 4.5,
-      "cuisine": [
-        "Italiana",
-        "Pesce"
-      ],
+      "cuisine": "Italiana, Pesce",
       "address": "Castello 3303 Salizzada dei Greci",
       "city_id": 12
     },
@@ -661,10 +556,7 @@
       "id": 136,
       "name": "Ristorante Quadri",
       "vote_average": 4.5,
-      "cuisine": [
-        "Italiana",
-        "Pesce"
-      ],
+      "cuisine": "Italiana, Pesce",
       "address": "Piazza San Marco, 123",
       "city_id": 12
     },
@@ -672,10 +564,7 @@
       "id": 137,
       "name": "Glovers Alley",
       "vote_average": 5,
-      "cuisine": [
-        "Irlandese",
-        "Europea"
-      ],
+      "cuisine": "Irlandese, Europea",
       "address": "128 Stephen's Green Fitzwilliam Hotel",
       "city_id": 13
     },
@@ -683,10 +572,7 @@
       "id": 138,
       "name": "Bastible",
       "vote_average": 4.5,
-      "cuisine": [
-        "Irlandese",
-        "Europea"
-      ],
+      "cuisine": "Irlandese, Europea",
       "address": "111 South Circular Road Leonards Corner",
       "city_id": 13
     },
@@ -694,10 +580,7 @@
       "id": 139,
       "name": "Variety Jones",
       "vote_average": 4.5,
-      "cuisine": [
-        "Irlandese",
-        "Europea"
-      ],
+      "cuisine": "Irlandese, Europea",
       "address": "78 Thomas Street",
       "city_id": 13
     },
@@ -705,10 +588,7 @@
       "id": 140,
       "name": "Il Palagio - Four Seasons Hotel",
       "vote_average": 4.5,
-      "cuisine": [
-        "Italiana",
-        "Mediterranea"
-      ],
+      "cuisine": "Italiana, Mediterranea",
       "address": "Borgo Pinti, 99",
       "city_id": 14
     },
@@ -716,10 +596,7 @@
       "id": 141,
       "name": "Borgo San Jacopo",
       "vote_average": 4.5,
-      "cuisine": [
-        "Italiana",
-        "Mediterranea"
-      ],
+      "cuisine": "Italiana, Mediterranea",
       "address": "Borgo San Jacopo, 62",
       "city_id": 14
     },
@@ -727,10 +604,7 @@
       "id": 142,
       "name": "Gucci Osteria da Massimo Bottura",
       "vote_average": 4,
-      "cuisine": [
-        "Italiana",
-        "Internazionale"
-      ],
+      "cuisine": "Italiana, Internazionale",
       "address": "Piazza della Signoria, 10",
       "city_id": 14
     },
@@ -738,10 +612,7 @@
       "id": 143,
       "name": "Pipero Roma",
       "vote_average": 4.5,
-      "cuisine": [
-        "Italiana",
-        "Pesce"
-      ],
+      "cuisine": "Italiana, Pesce",
       "address": "Corso Vittorio Emanuele II, 250",
       "city_id": 15
     },
@@ -749,10 +620,7 @@
       "id": 144,
       "name": "Noel",
       "vote_average": 4.5,
-      "cuisine": [
-        "Europea",
-        "Contemporanea"
-      ],
+      "cuisine": "Europea, Contemporanea",
       "address": "Ulica Popa Dukljanina, 1",
       "city_id": 15
     },
@@ -760,10 +628,7 @@
       "id": 145,
       "name": "Roots Juice & Cocktail Bar",
       "vote_average": 4.5,
-      "cuisine": [
-        "Caffè",
-        "Salutistica"
-      ],
+      "cuisine": "Caffè, Salutistica",
       "address": "Tomiceva, 5",
       "city_id": 15
     },
@@ -771,10 +636,7 @@
       "id": 146,
       "name": "LOCO Restaurante",
       "vote_average": 4.5,
-      "cuisine": [
-        "Mediterranea",
-        "Europea"
-      ],
+      "cuisine": "Mediterranea, Europea",
       "address": "Rua dos Navegantes, 53",
       "city_id": 16
     },
@@ -782,10 +644,7 @@
       "id": 147,
       "name": "Feitoria Restaurant & Wine Bar",
       "vote_average": 4.5,
-      "cuisine": [
-        "Mediterranea",
-        "Europea"
-      ],
+      "cuisine": "Mediterranea, Europea",
       "address": "Doca do Bom Sucesso Altis Belèm Hotel & Spa",
       "city_id": 16
     },
@@ -793,10 +652,7 @@
       "id": 148,
       "name": "Restaurante EPUR",
       "vote_average": 5,
-      "cuisine": [
-        "Europea",
-        "Portoghese"
-      ],
+      "cuisine": "Europea, Portoghese",
       "address": "vicolo del Malpasso, 9",
       "city_id": 16
     },
@@ -804,10 +660,7 @@
       "id": 149,
       "name": "Gruber's",
       "vote_average": 4.5,
-      "cuisine": [
-        "Austriaca",
-        "Europea"
-      ],
+      "cuisine": "Austriaca, Europea",
       "address": "Clever Strasse, 32",
       "city_id": 17
     },
@@ -815,10 +668,7 @@
       "id": 150,
       "name": "Hanse-Stube",
       "vote_average": 4.5,
-      "cuisine": [
-        "Francese",
-        "Tedesca"
-      ],
+      "cuisine": "Francese, Tedesca",
       "address": "Trankgasse, 1",
       "city_id": 17
     },
@@ -826,10 +676,7 @@
       "id": 151,
       "name": "maiBeck",
       "vote_average": 4.5,
-      "cuisine": [
-        "Tedesca",
-        "Europea"
-      ],
+      "cuisine": "Tedesca, Europea",
       "address": "Am Frankenturm, 5",
       "city_id": 17
     },
@@ -837,10 +684,7 @@
       "id": 152,
       "name": "Oria Restaurant",
       "vote_average": 4.5,
-      "cuisine": [
-        "Mediterranea",
-        "Europea"
-      ],
+      "cuisine": "Mediterranea, Europea",
       "address": "Passeig de Gracia, 75",
       "city_id": 18
     },
@@ -848,10 +692,7 @@
       "id": 153,
       "name": "Koy Shunka",
       "vote_average": 4.5,
-      "cuisine": [
-        "Giapponese",
-        "Sushi"
-      ],
+      "cuisine": "Giapponese, Sushi",
       "address": "Carrer de Copons, 7",
       "city_id": 18
     },
@@ -859,10 +700,7 @@
       "id": 154,
       "name": "Caelis",
       "vote_average": 4.5,
-      "cuisine": [
-        "Mediterranea",
-        "Europea"
-      ],
+      "cuisine": "Mediterranea, Europea",
       "address": "Via Laietana, 49",
       "city_id": 18
     },
@@ -870,10 +708,7 @@
       "id": 155,
       "name": "Xera Restaurant",
       "vote_average": 5,
-      "cuisine": [
-        "Spagnola",
-        "Pesce"
-      ],
+      "cuisine": "Spagnola, Pesce",
       "address": "Calle De Les Sitges, 10",
       "city_id": 19
     },
@@ -881,10 +716,7 @@
       "id": 156,
       "name": "Con Gracia",
       "vote_average": 4.5,
-      "cuisine": [
-        "Spagnola",
-        "Mediterranea"
-      ],
+      "cuisine": "Spagnola, Mediterranea",
       "address": "Martinez de la Rosa, 8",
       "city_id": 19
     },
@@ -892,10 +724,7 @@
       "id": 157,
       "name": "LAB Restaurant",
       "vote_average": 5,
-      "cuisine": [
-        "Mediterranea",
-        "Europea"
-      ],
+      "cuisine": "Mediterranea, Europea",
       "address": "Carrer de Rossend Arus, 12",
       "city_id": 19
     },
@@ -903,10 +732,7 @@
       "id": 158,
       "name": "Fierro",
       "vote_average": 5,
-      "cuisine": [
-        "Mediterranea",
-        "Europea"
-      ],
+      "cuisine": "Mediterranea, Europea",
       "address": "Calle Doctor Serrano, 4",
       "city_id": 20
     },
@@ -914,10 +740,7 @@
       "id": 159,
       "name": "Restaurante La Salita",
       "vote_average": 4.5,
-      "cuisine": [
-        "Mediterranea",
-        "Europea"
-      ],
+      "cuisine": "Mediterranea, Europea",
       "address": "C/ Pere III el Gran, 11",
       "city_id": 20
     },
@@ -947,10 +770,7 @@
       "id": 162,
       "name": "Il Buco Sorrento",
       "vote_average": 4.5,
-      "cuisine": [
-        "Italiana",
-        "Mediterranea"
-      ],
+      "cuisine": "Italiana, Mediterranea",
       "address": "2°Rampa Marina Piccola, 5",
       "city_id": 21
     },
@@ -958,10 +778,7 @@
       "id": 163,
       "name": "Don Geppi",
       "vote_average": 5,
-      "cuisine": [
-        "Italiana",
-        "Pesce"
-      ],
+      "cuisine": "Italiana, Pesce",
       "address": "Via Crawford Marion, 40",
       "city_id": 21
     },
@@ -969,10 +786,7 @@
       "id": 164,
       "name": "1711 Ristorante",
       "vote_average": 4.5,
-      "cuisine": [
-        "Italiana",
-        "Italiana (sud)"
-      ],
+      "cuisine": "Italiana, Italiana (sud)",
       "address": "Via le Croci, 11",
       "city_id": 22
     },
@@ -980,10 +794,7 @@
       "id": 165,
       "name": "You - Cibo e Piacere",
       "vote_average": 5,
-      "cuisine": [
-        "Italiana",
-        "Pesce"
-      ],
+      "cuisine": "Italiana, Pesce",
       "address": "Via Francesco Petrelli, 15",
       "city_id": 22
     },
@@ -991,10 +802,7 @@
       "id": 166,
       "name": "Trattoria La Puritate",
       "vote_average": 4,
-      "cuisine": [
-        "Italiana",
-        "Pesce"
-      ],
+      "cuisine": "Italiana, Pesce",
       "address": "Via Sant'Elia, 18",
       "city_id": 22
     },
@@ -1002,10 +810,7 @@
       "id": 167,
       "name": "CTC",
       "vote_average": 4.5,
-      "cuisine": [
-        "Mediterranea",
-        "Europea"
-      ],
+      "cuisine": "Mediterranea, Europea",
       "address": "15, Plataion Street Kerameikos",
       "city_id": 23
     },
@@ -1013,10 +818,7 @@
       "id": 168,
       "name": "Spondi",
       "vote_average": 4.5,
-      "cuisine": [
-        "Francese",
-        "Europea"
-      ],
+      "cuisine": "Francese, Europea",
       "address": "5, Pirronos Pagkrati",
       "city_id": 23
     },
@@ -1024,10 +826,7 @@
       "id": 169,
       "name": "Hytra",
       "vote_average": 4,
-      "cuisine": [
-        "Greca",
-        "Salutistica"
-      ],
+      "cuisine": "Greca, Salutistica",
       "address": "Leof. Andrea Siggrou, 107",
       "city_id": 23
     },
@@ -1035,10 +834,7 @@
       "id": 170,
       "name": "Efisia Greek Fine Dining",
       "vote_average": 5,
-      "cuisine": [
-        "Mediterranea",
-        "Greca"
-      ],
+      "cuisine": "Mediterranea, Greca",
       "address": "Platis Gialos Beach, Platys Gialos",
       "city_id": 24
     },
@@ -1046,10 +842,7 @@
       "id": 171,
       "name": "BAOS Fine Dining",
       "vote_average": 5,
-      "cuisine": [
-        "Pesce",
-        "Mediterranea"
-      ],
+      "cuisine": "Pesce, Mediterranea",
       "address": "Myconia Korali Resort",
       "city_id": 24
     },
@@ -1057,10 +850,7 @@
       "id": 172,
       "name": "Krama Mykonos",
       "vote_average": 4.5,
-      "cuisine": [
-        "Mediterranea",
-        "Pesce"
-      ],
+      "cuisine": "Mediterranea, Pesce",
       "address": "Semeli Hotel",
       "city_id": 24
     },
@@ -1068,10 +858,7 @@
       "id": 173,
       "name": "Le Monument Restaurant",
       "vote_average": 5,
-      "cuisine": [
-        "Europea",
-        "Contemporanea"
-      ],
+      "cuisine": "Europea, Contemporanea",
       "address": "Avenida dos Aliados, 151",
       "city_id": 25
     },
@@ -1079,21 +866,15 @@
       "id": 174,
       "name": "Euskalduna Studio",
       "vote_average": 4.5,
-      "cuisine": [
-        "Europea",
-        "Mediterranea"
-      ],
+      "cuisine": "Europea, Mediterranea",
       "address": "Rua de santo Ildefonso, 404",
-      "city_id": 5
+      "city_id": 25
     },
     {
       "id": 175,
       "name": "Antiqvvm",
       "vote_average": 4.5,
-      "cuisine": [
-        "Mediterranea",
-        "Europea"
-      ],
+      "cuisine": "Mediterranea, Europea",
       "address": "Rua de Entrequintas, 220",
       "city_id": 25
     },
@@ -1101,10 +882,7 @@
       "id": 176,
       "name": "Le Chantecler",
       "vote_average": 4.5,
-      "cuisine": [
-        "Francese",
-        "Europea"
-      ],
+      "cuisine": "Francese, Europea",
       "address": "37 Promenade des Anglais",
       "city_id": 26
     },
@@ -1112,10 +890,7 @@
       "id": 177,
       "name": "JAN",
       "vote_average": 5,
-      "cuisine": [
-        "Francese",
-        "Europea"
-      ],
+      "cuisine": "Francese, Europea",
       "address": "12 rue Lascaris",
       "city_id": 26
     },
@@ -1123,10 +898,7 @@
       "id": 178,
       "name": "Les Agitateurs",
       "vote_average": 4.5,
-      "cuisine": [
-        "Francese",
-        "Mediterranea"
-      ],
+      "cuisine": "Francese, Mediterranea",
       "address": "24 rue Bonaparte Intersection Au, 9",
       "city_id": 26
     },
@@ -1134,10 +906,7 @@
       "id": 179,
       "name": "L'Apartè",
       "vote_average": 5,
-      "cuisine": [
-        "Francese",
-        "Europea"
-      ],
+      "cuisine": "Francese, Europea",
       "address": "rue de Lausanne, 41",
       "city_id": 27
     },
@@ -1145,10 +914,7 @@
       "id": 180,
       "name": "Bayview",
       "vote_average": 4.5,
-      "cuisine": [
-        "Francese",
-        "Europea"
-      ],
+      "cuisine": "Francese, Europea",
       "address": "47 Quai Wilson",
       "city_id": 27
     },
@@ -1156,10 +922,7 @@
       "id": 181,
       "name": "La Chat-Bottè",
       "vote_average": 4.5,
-      "cuisine": [
-        "Francese",
-        "Europea"
-      ],
+      "cuisine": "Francese, Europea",
       "address": "quai du Mont-Blanc, 13",
       "city_id": 27
     },
@@ -1167,10 +930,7 @@
       "id": 182,
       "name": "Veritas",
       "vote_average": 4.5,
-      "cuisine": [
-        "Mediterranea",
-        "Pesce"
-      ],
+      "cuisine": "Mediterranea, Pesce",
       "address": "Corso Vittorio Emanuele, 141",
       "city_id": 28
     },
@@ -1178,10 +938,7 @@
       "id": 183,
       "name": "George Restaurant",
       "vote_average": 4.5,
-      "cuisine": [
-        "Italiana",
-        "Mediterranea"
-      ],
+      "cuisine": "Italiana, Mediterranea",
       "address": "Corso Vittorio Emanuele, 135",
       "city_id": 28
     },
@@ -1189,10 +946,7 @@
       "id": 184,
       "name": "Il Comandante",
       "vote_average": 4.5,
-      "cuisine": [
-        "Italiana",
-        "Pesce"
-      ],
+      "cuisine": "Italiana, Pesce",
       "address": "Via Cristoforo Colombo, 45",
       "city_id": 28
     },
@@ -1200,10 +954,7 @@
       "id": 185,
       "name": "La Gaia by Oscar Molina",
       "vote_average": 5,
-      "cuisine": [
-        "Mediterranea",
-        "Per vegetariani"
-      ],
+      "cuisine": "Mediterranea, Per vegetariani",
       "address": "Paseo Juan Carlos I, 17",
       "city_id": 29
     },
@@ -1211,10 +962,7 @@
       "id": 186,
       "name": "Etxeko Ibizo",
       "vote_average": 5,
-      "cuisine": [
-        "Spagnola",
-        "Mediterranea"
-      ],
+      "cuisine": "Spagnola, Mediterranea",
       "address": "Avenida Cala Nova s/n",
       "city_id": 29
     },
@@ -1222,10 +970,7 @@
       "id": 187,
       "name": "Es Tragon",
       "vote_average": 4.5,
-      "cuisine": [
-        "Mediterranea",
-        "Europea"
-      ],
+      "cuisine": "Mediterranea, Europea",
       "address": "Carretera Cap Negret s/n",
       "city_id": 29
     },
@@ -1233,10 +978,7 @@
       "id": 188,
       "name": "Une Table au Sud",
       "vote_average": 4.5,
-      "cuisine": [
-        "Francese",
-        "Mediterranea"
-      ],
+      "cuisine": "Francese, Mediterranea",
       "address": "2 quai du Port",
       "city_id": 30
     },
@@ -1244,10 +986,7 @@
       "id": 189,
       "name": "Alcyone",
       "vote_average": 4.5,
-      "cuisine": [
-        "Francese",
-        "Mediterranea"
-      ],
+      "cuisine": "Francese, Mediterranea",
       "address": "1 Place Daviel",
       "city_id": 30
     },
@@ -1255,10 +994,7 @@
       "id": 190,
       "name": "Restaurant Saisons",
       "vote_average": 4.5,
-      "cuisine": [
-        "Francese",
-        "Mediterranea"
-      ],
+      "cuisine": "Francese, Mediterranea",
       "address": "8 rue Sainte Victoire",
       "city_id": 30
     }
@@ -1809,452 +1545,542 @@
     {
       "id": 301,
       "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "address": "Via Tagliamento, 9",
+      "city_id": 1
     },
     {
       "id": 302,
       "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "address": "Via Velletri, 13",
+      "city_id": 1
     },
     {
       "id": 303,
       "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "address": "Via de' Nari, 14",
+      "city_id": 1
     },
     {
       "id": 304,
       "name": "Hemingway Bar",
-      "address": "Karoliny Svetle, 279"
+      "address": "Karoliny Svetle, 279",
+      "city_id": 2
     },
     {
       "id": 305,
       "name": "Stredoveka Krcma",
-      "address": "Thunovska, 198"
+      "address": "Thunovska, 198",
+      "city_id": 2
     },
     {
       "id": 306,
       "name": "Absintherie",
-      "address": "Jilska, 7"
+      "address": "Jilska, 7",
+      "city_id": 2
     },
     {
       "id": 307,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Matrix Club Berlin",
+      "address": "Via Tagliamento, 9",
+      "city_id": 3
     },
     {
       "id": 308,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Teledisko Blau | Holzmarkt",
+      "address": "Via Velletri, 13",
+      "city_id": 3
     },
     {
       "id": 309,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "://About Blank",
+      "address": "Via de' Nari, 14",
+      "city_id": 3
     },
     {
       "id": 310,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Retro Disco Remix",
+      "address": "Via Tagliamento, 9",
+      "city_id": 4
     },
     {
       "id": 311,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "LOCK the club",
+      "address": "Via Velletri, 13",
+      "city_id": 4
     },
     {
       "id": 312,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Otkert",
+      "address": "Via de' Nari, 14",
+      "city_id": 4
     },
     {
       "id": 313,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Disco Dolly",
+      "address": "Via Tagliamento, 9",
+      "city_id": 5
     },
     {
       "id": 314,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Club Mystique",
+      "address": "Via Velletri, 13",
+      "city_id": 5
     },
     {
       "id": 315,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Hush Silent Disco Club",
+      "address": "Via de' Nari, 14",
+      "city_id": 5
     },
     {
       "id": 316,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Djoon",
+      "address": "Via Tagliamento, 9",
+      "city_id": 6
     },
     {
       "id": 317,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "L'insolite Club Discotheque",
+      "address": "Via Velletri, 13",
+      "city_id": 6
     },
     {
       "id": 318,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Le Romeo",
+      "address": "Via de' Nari, 14",
+      "city_id": 6
     },
     {
       "id": 319,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "The Bongo Club",
+      "address": "Via Tagliamento, 9",
+      "city_id": 7
     },
     {
       "id": 320,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Why Not Nightclub",
+      "address": "Via Velletri, 13",
+      "city_id": 7
     },
     {
       "id": 321,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "The Hive Nightclub",
+      "address": "Via de' Nari, 14",
+      "city_id": 7
     },
     {
       "id": 322,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Radio Londra",
+      "address": "Via Tagliamento, 9",
+      "city_id": 8
     },
     {
       "id": 323,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "fabric London",
+      "address": "Via Velletri, 13",
+      "city_id": 8
     },
     {
       "id": 324,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Corsica Studios",
+      "address": "Via de' Nari, 14",
+      "city_id": 8
     },
     {
       "id": 325,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Prater Dome",
+      "address": "Via Tagliamento, 9",
+      "city_id": 9
     },
     {
       "id": 326,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Club U",
+      "address": "Via Velletri, 13",
+      "city_id": 9
     },
     {
       "id": 327,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Club Schwarzenberg",
+      "address": "Via de' Nari, 14",
+      "city_id": 9
     },
     {
       "id": 328,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Culture Box",
+      "address": "Via Tagliamento, 9",
+      "city_id": 10
     },
     {
       "id": 329,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Club Mambo",
+      "address": "Via Velletri, 13",
+      "city_id": 10
     },
     {
       "id": 330,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "KB3",
+      "address": "Via de' Nari, 14",
+      "city_id": 10
     },
     {
       "id": 331,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Vogue Club",
+      "address": "Via Tagliamento, 9",
+      "city_id": 11
     },
     {
       "id": 332,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Discoteca Life Torino",
+      "address": "Via Velletri, 13",
+      "city_id": 11
     },
     {
       "id": 333,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Disco Freedom",
+      "address": "Via de' Nari, 14",
+      "city_id": 11
     },
     {
       "id": 334,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Molocinque",
+      "address": "Via Tagliamento, 9",
+      "city_id": 12
     },
     {
       "id": 335,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Area City",
+      "address": "Via Velletri, 13",
+      "city_id": 12
     },
     {
       "id": 336,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Alma de Cuba",
+      "address": "Via de' Nari, 14",
+      "city_id": 12
     },
     {
       "id": 337,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Copper Face Jacks",
+      "address": "Via Tagliamento, 9",
+      "city_id": 13
     },
     {
       "id": 338,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Krystle",
+      "address": "Via Velletri, 13",
+      "city_id": 13
     },
     {
       "id": 339,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Twenty Two Night Club",
+      "address": "Via de' Nari, 14",
+      "city_id": 13
     },
     {
       "id": 340,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Space Club",
+      "address": "Via Tagliamento, 9",
+      "city_id": 14
     },
     {
       "id": 341,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Villa Vittoria",
+      "address": "Via Velletri, 13",
+      "city_id": 14
     },
     {
       "id": 342,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Tenax Discoteca",
+      "address": "Via de' Nari, 14",
+      "city_id": 14
     },
     {
       "id": 343,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Gallery Club",
+      "address": "Via Tagliamento, 9",
+      "city_id": 15
     },
     {
       "id": 344,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Acquarius club Zagreb",
+      "address": "Via Velletri, 13",
+      "city_id": 15
     },
     {
       "id": 345,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "OUT Bunker Nightclub",
+      "address": "Via de' Nari, 14",
+      "city_id": 15
     },
     {
       "id": 346,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Kremlin",
+      "address": "Via Tagliamento, 9",
+      "city_id": 16
     },
     {
       "id": 347,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Plateau",
+      "address": "Via Velletri, 13",
+      "city_id": 16
     },
     {
       "id": 348,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "K Urban Beach Club",
+      "address": "Via de' Nari, 14",
+      "city_id": 16
     },
     {
       "id": 349,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Bootshaus",
+      "address": "Via Tagliamento, 9",
+      "city_id": 17
     },
     {
       "id": 350,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Diamonds Club",
+      "address": "Via Velletri, 13",
+      "city_id": 17
     },
     {
       "id": 351,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Vanity Club Cologne",
+      "address": "Via de' Nari, 14",
+      "city_id": 17
     },
     {
       "id": 352,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Opium",
+      "address": "Via Tagliamento, 9",
+      "city_id": 18
     },
     {
       "id": 353,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Disco City Hall",
+      "address": "Via Velletri, 13",
+      "city_id": 18
     },
     {
       "id": 354,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Moog",
+      "address": "Via de' Nari, 14",
+      "city_id": 18
     },
     {
       "id": 355,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Sala Gold",
+      "address": "Via Tagliamento, 9",
+      "city_id": 19
     },
     {
       "id": 356,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Discoteca Anden",
+      "address": "Via Velletri, 13",
+      "city_id": 19
     },
     {
       "id": 357,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Mirror Malaga",
+      "address": "Via de' Nari, 14",
+      "city_id": 19
     },
     {
       "id": 358,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Mya Club",
+      "address": "Via Tagliamento, 9",
+      "city_id": 20
     },
     {
       "id": 359,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "MClub",
+      "address": "Via Velletri, 13",
+      "city_id": 20
     },
     {
       "id": 360,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Play Club",
+      "address": "Via de' Nari, 14",
+      "city_id": 20
     },
     {
       "id": 361,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Fauno Notte Club",
+      "address": "Via Tagliamento, 9",
+      "city_id": 21
     },
     {
       "id": 362,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Filou Club",
+      "address": "Via Velletri, 13",
+      "city_id": 21
     },
     {
       "id": 363,
       "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "address": "Via de' Nari, 14",
+      "city_id": 21
     },
     {
       "id": 364,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Praja Gallipoli",
+      "address": "Via Tagliamento, 9",
+      "city_id": 22
     },
     {
       "id": 365,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Riobo",
+      "address": "Via Velletri, 13",
+      "city_id": 22
     },
     {
       "id": 366,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Ten Gallipoli",
+      "address": "Via de' Nari, 14",
+      "city_id": 22
     },
     {
       "id": 367,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Lohan Athens Nightclub",
+      "address": "Via Tagliamento, 9",
+      "city_id": 23
     },
     {
       "id": 368,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "DISCO - VINILIO",
+      "address": "Via Velletri, 13",
+      "city_id": 23
     },
     {
       "id": 369,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Cinderella",
+      "address": "Via de' Nari, 14",
+      "city_id": 23
     },
     {
       "id": 370,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Guzel",
+      "address": "Via Tagliamento, 9",
+      "city_id": 24
     },
     {
       "id": 371,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Paradise Beach Club",
+      "address": "Via Velletri, 13",
+      "city_id": 24
     },
     {
       "id": 372,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Tropicana Beach Bar",
+      "address": "Via de' Nari, 14",
+      "city_id": 24
     },
     {
       "id": 373,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Moreclub. Lda.",
+      "address": "Via Tagliamento, 9",
+      "city_id": 25
     },
     {
       "id": 374,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Discoteca Via Rapida",
+      "address": "Via Velletri, 13",
+      "city_id": 25
     },
     {
       "id": 375,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Boite",
+      "address": "Via de' Nari, 14",
+      "city_id": 25
     },
     {
       "id": 376,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "OPERA CLUB NICE",
+      "address": "Via Tagliamento, 9",
+      "city_id": 26
     },
     {
       "id": 377,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "High Club",
+      "address": "Via Velletri, 13",
+      "city_id": 26
     },
     {
       "id": 378,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "NOTORIOUS CLUB",
+      "address": "Via de' Nari, 14",
+      "city_id": 26
     },
     {
       "id": 379,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Java Club",
+      "address": "Via Tagliamento, 9",
+      "city_id": 27
     },
     {
       "id": 380,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "The 7 Night Club",
+      "address": "Via Velletri, 13",
+      "city_id": 27
     },
     {
       "id": 381,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Mambo",
+      "address": "Via de' Nari, 14",
+      "city_id": 27
     },
     {
       "id": 382,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "RIVA CLUB",
+      "address": "Via Tagliamento, 9",
+      "city_id": 28
     },
     {
       "id": 383,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Il Fico Eventi",
+      "address": "Via Velletri, 13",
+      "city_id": 28
     },
     {
       "id": 384,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Accademia Club",
+      "address": "Via de' Nari, 14",
+      "city_id": 28
     },
     {
       "id": 385,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "Hi Ibiza",
+      "address": "Via Tagliamento, 9",
+      "city_id": 29
     },
     {
       "id": 386,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "Pacha",
+      "address": "Via Velletri, 13",
+      "city_id": 29
     },
     {
       "id": 387,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "Amnesia",
+      "address": "Via de' Nari, 14",
+      "city_id": 29
     },
     {
       "id": 388,
-      "name": "Piper Club",
-      "address": "Via Tagliamento, 9"
+      "name": "LA PALMARAIE",
+      "address": "Via Tagliamento, 9",
+      "city_id": 30
     },
     {
       "id": 389,
-      "name": "Jolie Club",
-      "address": "Via Velletri, 13"
+      "name": "POP CLUB MARSEILLE",
+      "address": "Via Velletri, 13",
+      "city_id": 30
     },
     {
       "id": 390,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14"
+      "name": "DANCETERIA",
+      "address": "Via de' Nari, 14",
+      "city_id": 30
     }
   ],
   "users": [
@@ -2285,69 +2111,24 @@
   ],
   "reviews": [
     {
-      "id": 1674813627409,
-      "author": "asd",
-      "text_body": "asd",
-      "title": "asd22",
-      "rating": 1,
-      "account_id": 1,
-      "city_id": 1160
-    },
-    {
-      "id": 1681931815995,
+      "id": 1682448334832,
       "author": "luca",
-      "text_body": "non lo so",
-      "title": "Rick",
-      "rating": 4,
-      "account_id": 9
-    },
-    {
-      "id": 1682013751498,
-      "author": "john",
-      "text_body": "bross",
+      "text_body": "Gennaro",
       "title": "mario",
-      "rating": 1,
-      "account_id": 10
+      "rating": 2.5,
+      "account_id": 9,
+      "city_id": 5,
+      "type": "restaurant"
     },
     {
-      "id": 1682020479200,
+      "id": 1682448352405,
       "author": "luca",
-      "text_body": "non lo so",
-      "title": "haine",
-      "rating": 1,
-      "account_id": 9
-    }
-  ],
-  "reviews1": [
-    {
-      "id": 1,
-      "author": "",
-      "name": "",
-      "rating": 1,
-      "cuisine": "",
-      "address": "",
-      "account_id": 1,
-      "restaurant_id": 1
-    }
-  ],
-  "reviews2": [
-    {
-      "id": 1,
-      "author": "",
-      "name": "",
-      "address": "",
-      "account_id": 1,
-      "interest_id": 1
-    }
-  ],
-  "reviews3": [
-    {
-      "id": 1,
-      "author": "",
-      "name": "",
-      "address": "",
-      "account_id": 1,
-      "enjoy_id": 1
+      "text_body": "copenaghen",
+      "title": "mario",
+      "rating": 3.5,
+      "account_id": 9,
+      "city_id": 5,
+      "type": "restaurant"
     }
   ]
 }
