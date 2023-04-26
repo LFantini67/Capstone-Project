@@ -2,6 +2,7 @@
   "cities": [
     {
       "img": "https://siviaggia.it/wp-content/uploads/sites/2/2022/03/tutte-le-strade-portano-a-roma.jpg",
+      "img_copertina": "https://images.wallpaperscraft.com/image/single/rome_italy_coliseum_59248_2560x1024.jpg",
       "id": 1,
       "location": "Italia",
       "name": "Roma",
@@ -11,6 +12,7 @@
     },
     {
       "img": "https://www.travelbuycosenza.it/wp-content/uploads/2020/12/PRAGA.jpg",
+      "img_copertina": "https://a-static.besthdwallpaper.com/prague-wallpaper-3360x1260-1688_91.jpg",
       "id": 2,
       "location": "Repubblica Ceca",
       "name": "Praga",
@@ -20,6 +22,7 @@
     },
     {
       "img": "https://images.lonelyplanetitalia.it/uploads/veduta-della-skyline-di-berlino-cpatinoshutterstoc-628.jpg?q=80&p=slider&s=b54af11e23f338b10a8117ec6e1d45ef",
+      "img_copertina": "https://4kwallpapers.com/images/wallpapers/berlin-tv-tower-berliner-fernsehturm-germany-landmark-3440x1440-3687.jpg",
       "id": 3,
       "location": "Germania",
       "name": "Berlino",
@@ -29,6 +32,7 @@
     },
     {
       "img": "https://a.cdn-hotels.com/gdcs/production125/d1363/31e00c14-4160-4c48-a5fd-0b6d6f6e24c3.jpg",
+      "img_copertina": "https://images.wallpaperscraft.com/image/single/hungary_budapest_night_58300_2560x1024.jpg",
       "id": 4,
       "location": "Ungheria",
       "name": "Budapest",
@@ -38,6 +42,7 @@
     },
     {
       "img": "https://cdn.sanity.io/images/1wyn2xo2/production/66eacb897e1bac22fcc39b24600004b739a79520-2880x1922.jpg?fp-x=0.5&fp-y=0.5860806224547714&w=476&h=285&q=60&fit=crop&crop=focalpoint&dpr=2.625",
+      "img_copertina": "https://a-static.besthdwallpaper.com/amsterdam-at-night-wallpaper-3440x1440-55022_15.jpg",
       "id": 5,
       "location": "Paesi Bassi",
       "name": "Amsterdam",
@@ -47,6 +52,7 @@
     },
     {
       "img": "https://www.mercoledituttalasettimana.com/wp-content/uploads/2013/11/a-parigi-per-la-prima-volta.jpg",
+      "img_copertina": "https://ultrawidewallpapers.com/wp-content/uploads/2017/12/paris-3440x1440.jpg",
       "id": 6,
       "location": "Francia",
       "name": "Parigi",
@@ -56,6 +62,7 @@
     },
     {
       "img": "https://scoziatour.com/contenido/uploads/001_edimburgo_principale.jpg",
+      "img_copertina": "https://images.wallpaperscraft.com/image/single/city_buildings_aerial_view_148679_2048x1152.jpg",
       "id": 7,
       "location": "Scozia",
       "name": "Edimburgo",
@@ -65,6 +72,7 @@
     },
     {
       "img": "https://www.visitbritain.com/sites/default/files/styles/wysiwyg_image/public/consumer/vb34156199_1100.jpg?itok=8azk9zgC",
+      "img_copertina": "https://superultrawidewallpaper.com/wp-content/uploads/2018/06/east-london-3840x1080.jpg",
       "id": 8,
       "location": "Inghilterra",
       "name": "Londra",
@@ -74,6 +82,7 @@
     },
     {
       "img": "https://www.travelandleisure.com/thmb/zFpjulihpXjpUV7gKNHzydvJANA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/vienna-austria-VIENNATG0621-ecb0ee926c2d49c4bce610db594f7405.jpg",
+      "img_copertina": "https://wallpaperaccess.com/full/156614.jpg",
       "id": 9,
       "location": "Austria",
       "name": "Vienna",
@@ -83,6 +92,7 @@
     },
     {
       "img": "https://viaggianza.com/wp-content/uploads/2017/05/copenaghen-panorama-1.jpg",
+      "img_copertina": "https://images.wallpaperscraft.com/image/single/city_buildings_bridge_200284_2560x1024.jpg",
       "id": 10,
       "location": "Danimarca",
       "name": "Copenaghen",
@@ -92,6 +102,7 @@
     },
     {
       "img": "https://a.cdn-hotels.com/gdcs/production163/d784/ead812ae-029e-422c-b658-b69e115e3f78.jpg",
+      "img_copertina": "https://images.wallpaperscraft.com/image/single/temple_architecture_buildings_177015_2560x1024.jpg",
       "id": 11,
       "location": "Italia",
       "name": "Torino",
@@ -101,6 +112,7 @@
     },
     {
       "img": "https://www.italia.it/content/dam/tdh/it/site1/getty-temp-image/category-nuove/venezia/1600X900_venezia_san_marco_gabbiano.jpg",
+      "img_copertina": "https://i.redd.it/ktelcgyxslhx.png",
       "id": 12,
       "location": "Italia",
       "name": "Venezia",
@@ -110,6 +122,7 @@
     },
     {
       "img": "https://i0.wp.com/www.viaggiascrittori.com/wp-content/uploads/2019/10/48852965766_f36dc6e1b9_b.jpg?fit=1024%2C683&ssl=1",
+      "img_copertina": "https://images.wallpaperscraft.com/image/single/dublin_ireland_building_103070_2048x1152.jpg",
       "id": 13,
       "location": "Irlanda",
       "name": "Dublino",
@@ -119,6 +132,7 @@
     },
     {
       "img": "https://tourismmedia.italia.it/is/image/mitur/20210401173629-firenze-toscana-gettyimages-1145040590?wid=1600&hei=900&fit=constrain,1&fmt=webp",
+      "img_copertina": "https://s1.1zoom.me/big0/534/Italy_Florence_Houses_Rivers_Bridges_Night_546090_1280x632.jpg",
       "id": 14,
       "location": "Italia",
       "name": "Firenze",
@@ -128,6 +142,7 @@
     },
     {
       "img": "https://www.sanbitter.it/sites/default/files/zagabria-al-tramonto.jpg",
+      "img_copertina": "https://farm6.staticflickr.com/5546/11455405426_b89ec963dc_o.jpg",
       "id": 15,
       "location": "Croazia",
       "name": "Zagabria",
@@ -137,6 +152,7 @@
     },
     {
       "img": "https://static2-viaggi.corriereobjects.it/wp-content/uploads/2017/12/iStock-525935287.jpg?v=259785",
+      "img_copertina": "https://thumbs.dreamstime.com/b/panoramic-view-lisbon-downtown-castelo-sao-jorge-ultra-wide-121627695.jpg",
       "id": 16,
       "location": "Portogallo",
       "name": "Lisbona",
@@ -146,6 +162,7 @@
     },
     {
       "img": "https://www.aviontourism.com/images/1920-900-fix/621caf21-8168-47c0-84fa-101610c42022",
+      "img_copertina": "https://images7.alphacoders.com/485/thumb-1920-485867.jpg",
       "id": 17,
       "location": "Germania",
       "name": "Colonia",
@@ -155,6 +172,7 @@
     },
     {
       "img": "https://www.barcellona.org/wp-content/uploads/sites/14/barceloneta.jpg",
+      "img_copertina": "https://images.wallpaperscraft.com/image/single/night_clouds_buildings_124523_2048x1152.jpg",
       "id": 18,
       "location": "Spagna",
       "name": "Barcellona",
@@ -164,6 +182,7 @@
     },
     {
       "img": "https://www.andalusiaspagna.com/wp-content/uploads/sites/24/malaga-turismo.jpg",
+      "img_copertina": "https://www.thetrainline.com/content/vul/hero-images/city/malaga/2x.jpg",
       "id": 19,
       "location": "Spagna",
       "name": "Malaga",
@@ -173,6 +192,7 @@
     },
     {
       "img": "https://www.fulltravel.it/wp-content/uploads/2018/10/Valencia-Spagna.jpeg",
+      "img_copertina": "https://images.wallpaperscraft.com/image/single/valencia_architecture_building_beautifully_63204_2560x1024.jpg",
       "id": 20,
       "location": "Spagna",
       "name": "Valencia",
@@ -182,6 +202,7 @@
     },
     {
       "img": "https://www.campania.info/wp-content/uploads/sites/111/sorrento-hd.jpg",
+      "img_copertina": "https://images.wallpaperscraft.com/image/single/amalfi_italy_sea_112931_2560x1024.jpg",
       "id": 21,
       "location": "Italia",
       "name": "Sorrento",
@@ -191,6 +212,7 @@
     },
     {
       "img": "https://www.turistinpuglia.it/wp-content/uploads/2022/12/gallipoli-visita-guidata.jpg",
+      "img_copertina": "https://wallpapers.com/images/hd/ultrawide-white-sand-beach-b6wif1jbyowa0ta9.jpg",
       "id": 22,
       "location": "Italia",
       "name": "Gallipoli",
@@ -200,6 +222,7 @@
     },
     {
       "img": "https://www.grecia.info/wp-content/uploads/sites/71/atene-acropoli-sera.jpg",
+      "img_copertina": "https://images.wallpaperscraft.com/image/single/city_view_from_above_buildings_122339_2560x1024.jpg.jpg",
       "id": 23,
       "location": "Grecia",
       "name": "Atene",
@@ -209,6 +232,7 @@
     },
     {
       "img": "https://lp-cms-production.imgix.net/2021-08/shutterstockRF_1541944991.jpg",
+      "img_copertina": "https://rare-gallery.com/uploads/posts/881825-Fournakia-Mykonos-Greece-Coast-Houses-Marinas.jpg",
       "id": 24,
       "location": "Grecia",
       "name": "Mykonos",
@@ -218,6 +242,7 @@
     },
     {
       "img": "https://st3.idealista.pt/cms/arquivos/2018-12/media/image/Oporto%20Wikimedia%20Commons.jpg?fv=emC_9WtD",
+      "img_copertina": "https://photos.smugmug.com/Wallpapers/i-wr8d6pJ/0/db1138a4/X2/HDRshooter-super-ultra-wide-wallpaper-005-X2.jpg",
       "id": 25,
       "location": "Portogallo",
       "name": "Porto",
@@ -227,6 +252,7 @@
     },
     {
       "img": "https://www.aviontourism.com/images/1920-900-fix/e3240af8-2b69-4ac0-b06e-035f305149ff",
+      "img_copertina": "https://e1.pxfuel.com/desktop-wallpaper/196/86/desktop-wallpaper-beautiful-city-ultra-wide-tv-nice-city.jpg",
       "id": 26,
       "location": "Francia",
       "name": "Nizza",
@@ -236,6 +262,7 @@
     },
     {
       "img": "https://viaggianza.com/wp-content/uploads/2018/11/ginevra-panorama.jpg",
+      "img_copertina": "https://cf.bstatic.com/xdata/images/city/1680x560/685846.jpg?k=96e176edf5badab02c1f6bc4cea355c978d5567114c306a368b13e9950d0b7ff&o=",
       "id": 27,
       "location": "Svizzera",
       "name": "Ginevra",
@@ -245,6 +272,7 @@
     },
     {
       "img": "https://images.placesonline.com/photos/15722731206170358_Napoli6%20copia.png?quality=80&w=700",
+      "img_copertina": "https://media.istockphoto.com/id/1280923540/photo/aerial-ultra-wide-panorama-of-the-gulf-of-naples.jpg?s=170667a&w=0&k=20&c=IUY87JpS3fazaiOzRqijtzwmyz81zrpMzLjVYOxoT3M=",
       "id": 28,
       "location": "Italia",
       "name": "Napoli",
@@ -254,6 +282,7 @@
     },
     {
       "img": "https://www.youknowboat.com/wp-content/uploads/2022/02/Ibiza-Balearic-Islands-Spain-Espana.jpeg",
+      "img_copertina": "https://4kwallpapers.com/images/walls/thumbs_uwide/3408.jpg",
       "id": 29,
       "location": "Spagna",
       "name": "Ibiza",
@@ -263,6 +292,7 @@
     },
     {
       "img": "https://www.luoghidiinteresse.it/wp-content/uploads/00-Marsiglia-02.jpg",
+      "img_copertina": "https://cache.magicmaman.com/data/photo/w1200_h630_ci/4x/marseille-magicmaman.jpg",
       "id": 30,
       "location": "Francia",
       "name": "Marsiglia",
@@ -748,10 +778,7 @@
       "id": 160,
       "name": "Restaurante Lienzo",
       "vote_average": 4.5,
-      "cuisine": [
-        "Mediterranea",
-        "Spagnola"
-      ],
+      "cuisine": "Mediterranea, Spagnola",
       "address": "Placa Tetuan 18 Bajo Derecho",
       "city_id": 20
     },
@@ -759,10 +786,7 @@
       "id": 161,
       "name": "Terrazza Bosquet",
       "vote_average": 4.5,
-      "cuisine": [
-        "Centro europea",
-        "Campana"
-      ],
+      "cuisine": "Centro europea, Campana",
       "address": "Piazza Torquato Tasso, 34",
       "city_id": 21
     },
@@ -1039,505 +1063,505 @@
     {
       "id": 207,
       "name": "Porta di Brandeburgo",
-      "address": "Piazza Venezia",
+      "address": "Pariser Platz",
       "city_id": 3
     },
     {
       "id": 208,
       "name": "Palazzo del Reichstag",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Platz der Republik 1",
       "city_id": 3
     },
     {
       "id": 209,
       "name": "Torre della televisione di Berlino",
-      "address": "Lungotevere Castello, 50",
+      "address": "Panoramastraße 1A",
       "city_id": 3
     },
     {
       "id": 210,
       "name": "Parlamento di Budapest",
-      "address": "Piazza Venezia",
+      "address": "Kossuth Lajos tér 1-3",
       "city_id": 4
     },
     {
       "id": 211,
       "name": "Bastione dei pescatori",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Szentháromság tér",
       "city_id": 4
     },
     {
       "id": 212,
       "name": "Piazza degli Eroi",
-      "address": "Lungotevere Castello, 50",
+      "address": "Hősök tere",
       "city_id": 4
     },
     {
       "id": 213,
       "name": "Rijksmuseum",
-      "address": "Piazza Venezia",
+      "address": "Museumstraat 1",
       "city_id": 5
     },
     {
       "id": 214,
       "name": "Van Gogh Museum",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Museumplein 6",
       "city_id": 5
     },
     {
       "id": 215,
       "name": "Casa di Anna Frank",
-      "address": "Lungotevere Castello, 50",
+      "address": "Westermarkt 20",
       "city_id": 5
     },
     {
       "id": 216,
       "name": "Museo del Louvre",
-      "address": "Piazza Venezia",
+      "address": "75001 Parigi",
       "city_id": 6
     },
     {
       "id": 217,
       "name": "Torre Effeil",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Champ de Mars, 5 Av. Anatole France",
       "city_id": 6
     },
     {
       "id": 218,
       "name": "Arco di Trionfo",
-      "address": "Lungotevere Castello, 50",
+      "address": "Charles de Gaulle",
       "city_id": 6
     },
     {
       "id": 219,
       "name": "Castello di Edimburgo",
-      "address": "Piazza Venezia",
+      "address": "Castlehill, Edinburgh EH1 2NG",
       "city_id": 7
     },
     {
       "id": 220,
       "name": "Museo Nazionale Scozzese",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Chambers St, Edinburgh EH1 1JF",
       "city_id": 7
     },
     {
       "id": 221,
       "name": "Holyrood Palace",
-      "address": "Lungotevere Castello, 50",
+      "address": "Canongate, Edinburgh EH8 8DX",
       "city_id": 7
     },
     {
       "id": 222,
       "name": "Torre di Londra",
-      "address": "Piazza Venezia",
+      "address": "London EC3N 4AB",
       "city_id": 8
     },
     {
       "id": 223,
       "name": "London Eye",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Riverside Building, County Hall, London SE1 7PB",
       "city_id": 8
     },
     {
       "id": 224,
       "name": "Cattedrale di San Paolo",
-      "address": "Lungotevere Castello, 50",
+      "address": "St. Paul's Churchyard, London EC4M 8AD",
       "city_id": 8
     },
     {
       "id": 225,
       "name": "Palazzo di Schonbrunn",
-      "address": "Piazza Venezia",
+      "address": "Schönbrunner Schloßstraße 47",
       "city_id": 9
     },
     {
       "id": 226,
       "name": "Stephansdom",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Stephansplatz 3",
       "city_id": 9
     },
     {
       "id": 227,
       "name": "Hofburg",
-      "address": "Lungotevere Castello, 50",
+      "address": "1010 Vienna",
       "city_id": 9
     },
     {
       "id": 228,
       "name": "Giardini di Tivoli",
-      "address": "Piazza Venezia",
+      "address": "Vesterbrogade 3",
       "city_id": 10
     },
     {
       "id": 229,
       "name": "Palazzo di Christiansborg",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Prins Jørgens Gård 1",
       "city_id": 10
     },
     {
       "id": 230,
       "name": "Castello di Rosenborg",
-      "address": "Lungotevere Castello, 50",
+      "address": "Øster Voldgade 4A",
       "city_id": 10
     },
     {
       "id": 231,
       "name": "Museo Egizio",
-      "address": "Piazza Venezia",
+      "address": "Via Accademia delle Scienze, 6",
       "city_id": 11
     },
     {
       "id": 232,
       "name": "Mole Antonelliana",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Via Montebello, 20",
       "city_id": 11
     },
     {
       "id": 233,
       "name": "Piazza San Carlo",
-      "address": "Lungotevere Castello, 50",
+      "address": "P.za S. Carlo",
       "city_id": 11
     },
     {
       "id": 234,
       "name": "Ponte di Rialto",
-      "address": "Piazza Venezia",
+      "address": "Sestiere San Polo",
       "city_id": 12
     },
     {
       "id": 235,
       "name": "Piazza San Marco",
-      "address": "Piazza del Colosseo, 1",
+      "address": "P.za San Marco",
       "city_id": 12
     },
     {
       "id": 236,
       "name": "Palazzo Ducale",
-      "address": "Lungotevere Castello, 50",
+      "address": "P.za San Marco, 1",
       "city_id": 12
     },
     {
       "id": 237,
       "name": "Guinnes Storehouse",
-      "address": "Piazza Venezia",
+      "address": "St. James's Gate, Dublin 8",
       "city_id": 13
     },
     {
       "id": 238,
       "name": "Castello di Dublino",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Dame St",
       "city_id": 13
     },
     {
       "id": 239,
       "name": "Cattedrale di San Patrizio",
-      "address": "Lungotevere Castello, 50",
+      "address": "St Patrick's Close",
       "city_id": 13
     },
     {
       "id": 240,
       "name": "Galleria degli Uffizi",
-      "address": "Piazza Venezia",
+      "address": "Piazzale degli Uffizi, 6",
       "city_id": 14
     },
     {
       "id": 241,
       "name": "Ponte Vecchio",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Ponte Vecchio",
       "city_id": 14
     },
     {
       "id": 242,
       "name": "Cattedrale di Santa Maria del Fiore",
-      "address": "Lungotevere Castello, 50",
+      "address": "Piazza del Duomo",
       "city_id": 14
     },
     {
       "id": 243,
       "name": "Cattedrale di Zagabria",
-      "address": "Piazza Venezia",
+      "address": "Kaptol ul.",
       "city_id": 15
     },
     {
       "id": 244,
       "name": "St. Mark's Church",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Trg Sv. Marka 5",
       "city_id": 15
     },
     {
       "id": 245,
       "name": "Torre Lotrscak",
-      "address": "Lungotevere Castello, 50",
+      "address": "Strossmayerovo šetalište 9",
       "city_id": 15
     },
     {
       "id": 246,
       "name": "Castello di Sao Jorge",
-      "address": "Piazza Venezia",
+      "address": "R. de Santa Cruz do Castelo",
       "city_id": 16
     },
     {
       "id": 247,
       "name": "Torre de Belem",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Av. Brasília",
       "city_id": 16
     },
     {
       "id": 248,
       "name": "Monastero dos Jeronimos",
-      "address": "Lungotevere Castello, 50",
+      "address": "Praça do Império",
       "city_id": 16
     },
     {
       "id": 249,
       "name": "Duomo di Colonia",
-      "address": "Piazza Venezia",
+      "address": "Domkloster 4",
       "city_id": 17
     },
     {
       "id": 250,
       "name": "Museo Ludwig",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Heinrich-Böll-Platz",
       "city_id": 17
     },
     {
       "id": 251,
       "name": "Museo del cioccolato Imhoff",
-      "address": "Lungotevere Castello, 50",
+      "address": "Am Schokoladenmuseum 1A",
       "city_id": 17
     },
     {
       "id": 252,
       "name": "Sagrada Familia",
-      "address": "Piazza Venezia",
+      "address": "C/ de Mallorca, 401",
       "city_id": 18
     },
     {
       "id": 253,
       "name": "Parco Guell",
-      "address": "Piazza del Colosseo, 1",
+      "address": "08024 Barcelona",
       "city_id": 18
     },
     {
       "id": 254,
       "name": "Camp Nou",
-      "address": "Lungotevere Castello, 50",
+      "address": "C. d'Arístides Maillol, 12",
       "city_id": 18
     },
     {
       "id": 255,
       "name": "Alcazaba",
-      "address": "Piazza Venezia",
+      "address": "C/ Alcazabilla, 2",
       "city_id": 19
     },
     {
       "id": 256,
       "name": "Cattedrale di Malaga",
-      "address": "Piazza del Colosseo, 1",
+      "address": "C. Molina Lario, 9",
       "city_id": 19
     },
     {
       "id": 257,
       "name": "Mercato Centrale di Atarazanas",
-      "address": "Lungotevere Castello, 50",
+      "address": "C. Atarazanas, 10",
       "city_id": 19
     },
     {
       "id": 258,
       "name": "mercado Central",
-      "address": "Piazza Venezia",
+      "address": "Pl. de la Ciutat de Bruges, s/n",
       "city_id": 20
     },
     {
       "id": 259,
       "name": "Lonja de la Seda",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Carrer de la Llotja, 2",
       "city_id": 20
     },
     {
       "id": 260,
       "name": "Bioparc Valencia",
-      "address": "Lungotevere Castello, 50",
+      "address": "Av. Pío Baroja, 3",
       "city_id": 20
     },
     {
       "id": 261,
       "name": "Villa Comunale di Sorrento",
-      "address": "Piazza Venezia",
+      "address": "Via S. Francesco",
       "city_id": 21
     },
     {
       "id": 262,
       "name": "Bagni Regina Giovanna",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Traversa Punta Capo",
       "city_id": 21
     },
     {
       "id": 263,
       "name": "Vallone dei Mulini",
-      "address": "Lungotevere Castello, 50",
+      "address": "80067 Sorrento",
       "city_id": 21
     },
     {
       "id": 264,
       "name": "Fontana Greca",
-      "address": "Piazza Venezia",
+      "address": "Piazza Aldo Moro (largo Canneto)",
       "city_id": 22
     },
     {
       "id": 265,
       "name": "Spiaggia della Purità",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Spiaggia della Purità",
       "city_id": 22
     },
     {
       "id": 266,
       "name": "Castello Angioino",
-      "address": "Lungotevere Castello, 50",
+      "address": "Piazza Imbriani",
       "city_id": 22
     },
     {
       "id": 267,
       "name": "Acropoli di Atene",
-      "address": "Piazza Venezia",
+      "address": "Athens 105 58",
       "city_id": 23
     },
     {
       "id": 268,
       "name": "Partenone",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Athens 105 58",
       "city_id": 23
     },
     {
       "id": 269,
       "name": "Tempio di Zeus Olimpio",
-      "address": "Lungotevere Castello, 50",
+      "address": "Athens 105 57",
       "city_id": 23
     },
     {
       "id": 270,
       "name": "Super Paradise Beach Club",
-      "address": "Piazza Venezia",
+      "address": "Super Paradise Beach",
       "city_id": 24
     },
     {
       "id": 271,
       "name": "Panagia Paraportiani",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Χώρα, Mikonos 846 00",
       "city_id": 24
     },
     {
       "id": 272,
       "name": "Agios Sostis Beach",
-      "address": "Lungotevere Castello, 50",
+      "address": "Agios Sostis Beach",
       "city_id": 24
     },
     {
       "id": 273,
       "name": "Ponte Dom Luis I",
-      "address": "Piazza Venezia",
+      "address": "Pte. Luiz I, Porto",
       "city_id": 25
     },
     {
       "id": 274,
       "name": "Porto Sao Bento",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Praça de Almeida Garrett",
       "city_id": 25
     },
     {
       "id": 275,
       "name": "Libreria Lello",
-      "address": "Lungotevere Castello, 50",
+      "address": "R. das Carmelitas 144",
       "city_id": 25
     },
     {
       "id": 276,
       "name": "Collina del Castello",
-      "address": "Piazza Venezia",
+      "address": "06300 Nice",
       "city_id": 26
     },
     {
       "id": 277,
       "name": "Cathedrale Saint-Nicolas de Nice",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Av. Nicolas II",
       "city_id": 26
     },
     {
       "id": 278,
       "name": "Parc Phoenix",
-      "address": "Lungotevere Castello, 50",
+      "address": "405 Prom. des Anglais",
       "city_id": 26
     },
     {
       "id": 279,
       "name": "Jet d'eau",
-      "address": "Piazza Venezia",
+      "address": "Quai Gustave-Ador",
       "city_id": 27
     },
     {
       "id": 280,
       "name": "Cattedrale di Ginevra",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Cr de Saint-Pierre",
       "city_id": 27
     },
     {
       "id": 281,
       "name": "Palazzo delle Nazioni",
-      "address": "Lungotevere Castello, 50",
+      "address": "8, Av. de la Paix 14",
       "city_id": 27
     },
     {
       "id": 282,
       "name": "Piazza del Plebiscito",
-      "address": "Piazza Venezia",
+      "address": "Piazza del Plebiscito",
       "city_id": 28
     },
     {
       "id": 283,
       "name": "Castel dell'Ovo",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Via Eldorado, 3",
       "city_id": 28
     },
     {
       "id": 284,
       "name": "Catacombe di San Gennaro",
-      "address": "Lungotevere Castello, 50",
+      "address": "Via Capodimonte, 13",
       "city_id": 28
     },
     {
       "id": 285,
       "name": "Cala Benirras",
-      "address": "Piazza Venezia",
+      "address": "Cala Benirras",
       "city_id": 29
     },
     {
       "id": 286,
       "name": "Cala Bassa",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Cala Bassa",
       "city_id": 29
     },
     {
       "id": 287,
       "name": "Cala Saladeta",
-      "address": "Lungotevere Castello, 50",
+      "address": "Cala Saladeta",
       "city_id": 29
     },
     {
       "id": 288,
       "name": "Notre-Dame-de-la-Garde",
-      "address": "Piazza Venezia",
+      "address": "Rue Fort du Sanctuaire",
       "city_id": 30
     },
     {
       "id": 289,
       "name": "Cattedrale di Marsiglia",
-      "address": "Piazza del Colosseo, 1",
+      "address": "Pl. de la Major",
       "city_id": 30
     },
     {
       "id": 290,
       "name": "La Vieille Charite",
-      "address": "Lungotevere Castello, 50",
+      "address": "2 Rue de la Charité",
       "city_id": 30
     }
   ],
@@ -1581,505 +1605,505 @@
     {
       "id": 307,
       "name": "Matrix Club Berlin",
-      "address": "Via Tagliamento, 9",
+      "address": "Warschauer Pl. 18",
       "city_id": 3
     },
     {
       "id": 308,
       "name": "Teledisko Blau | Holzmarkt",
-      "address": "Via Velletri, 13",
+      "address": "Holzmarktstraße 25",
       "city_id": 3
     },
     {
       "id": 309,
       "name": "://About Blank",
-      "address": "Via de' Nari, 14",
+      "address": "Markgrafendamm 24c",
       "city_id": 3
     },
     {
       "id": 310,
       "name": "Retro Disco Remix",
-      "address": "Via Tagliamento, 9",
+      "address": "eréz krt. 55,",
       "city_id": 4
     },
     {
       "id": 311,
       "name": "LOCK the club",
-      "address": "Via Velletri, 13",
+      "address": "Tölgyfa u. 1-3",
       "city_id": 4
     },
     {
       "id": 312,
       "name": "Otkert",
-      "address": "Via de' Nari, 14",
+      "address": "Zrínyi u. 4/A",
       "city_id": 4
     },
     {
       "id": 313,
       "name": "Disco Dolly",
-      "address": "Via Tagliamento, 9",
+      "address": "Handboogstraat 11",
       "city_id": 5
     },
     {
       "id": 314,
       "name": "Club Mystique",
-      "address": "Via Velletri, 13",
+      "address": "Smaksteeg 19",
       "city_id": 5
     },
     {
       "id": 315,
       "name": "Hush Silent Disco Club",
-      "address": "Via de' Nari, 14",
+      "address": "Lange Leidsedwarsstraat 81",
       "city_id": 5
     },
     {
       "id": 316,
       "name": "Djoon",
-      "address": "Via Tagliamento, 9",
+      "address": "22 Bd Vincent Auriol",
       "city_id": 6
     },
     {
       "id": 317,
       "name": "L'insolite Club Discotheque",
-      "address": "Via Velletri, 13",
+      "address": "33 Rue des Petits Champs",
       "city_id": 6
     },
     {
       "id": 318,
       "name": "Le Romeo",
-      "address": "Via de' Nari, 14",
+      "address": "71 Bd Saint-Germain",
       "city_id": 6
     },
     {
       "id": 319,
       "name": "The Bongo Club",
-      "address": "Via Tagliamento, 9",
+      "address": "66 Cowgate, Edinburgh EH1 1JX",
       "city_id": 7
     },
     {
       "id": 320,
       "name": "Why Not Nightclub",
-      "address": "Via Velletri, 13",
+      "address": "14 George St, Edinburgh EH2 2PF",
       "city_id": 7
     },
     {
       "id": 321,
       "name": "The Hive Nightclub",
-      "address": "Via de' Nari, 14",
+      "address": "15-17 Niddry St, Edinburgh EH1 1LG",
       "city_id": 7
     },
     {
       "id": 322,
-      "name": "Radio Londra",
-      "address": "Via Tagliamento, 9",
+      "name": "The Roxy",
+      "address": "3-5 Rathbone Pl, London W1T 1HJ",
       "city_id": 8
     },
     {
       "id": 323,
       "name": "fabric London",
-      "address": "Via Velletri, 13",
+      "address": "77A Charterhouse St, London EC1M 6HJ",
       "city_id": 8
     },
     {
       "id": 324,
       "name": "Corsica Studios",
-      "address": "Via de' Nari, 14",
+      "address": "4, 5 Elephant Rd, London SE17 1LB",
       "city_id": 8
     },
     {
       "id": 325,
       "name": "Prater Dome",
-      "address": "Via Tagliamento, 9",
+      "address": "Riesenradpl. 7",
       "city_id": 9
     },
     {
       "id": 326,
       "name": "Club U",
-      "address": "Via Velletri, 13",
+      "address": "Karlsplatz",
       "city_id": 9
     },
     {
       "id": 327,
       "name": "Club Schwarzenberg",
-      "address": "Via de' Nari, 14",
+      "address": "Schwarzenbergpl. 7",
       "city_id": 9
     },
     {
       "id": 328,
       "name": "Culture Box",
-      "address": "Via Tagliamento, 9",
+      "address": "Kronprinsessegade 54",
       "city_id": 10
     },
     {
       "id": 329,
       "name": "Club Mambo",
-      "address": "Via Velletri, 13",
+      "address": "Vester Voldgade 85",
       "city_id": 10
     },
     {
       "id": 330,
       "name": "KB3",
-      "address": "Via de' Nari, 14",
+      "address": "Kødboderne 3",
       "city_id": 10
     },
     {
       "id": 331,
       "name": "Vogue Club",
-      "address": "Via Tagliamento, 9",
+      "address": "Via Andrea Doria, 9",
       "city_id": 11
     },
     {
       "id": 332,
       "name": "Discoteca Life Torino",
-      "address": "Via Velletri, 13",
+      "address": "Corso Massimo d'Azeglio, 3",
       "city_id": 11
     },
     {
       "id": 333,
       "name": "Disco Freedom",
-      "address": "Via de' Nari, 14",
+      "address": "Via Francesco Cigna, 3",
       "city_id": 11
     },
     {
       "id": 334,
       "name": "Molocinque",
-      "address": "Via Tagliamento, 9",
+      "address": "Via Elettricità, 8",
       "city_id": 12
     },
     {
       "id": 335,
       "name": "Area City",
-      "address": "Via Velletri, 13",
+      "address": "Via Don Federico Tosatto, 9",
       "city_id": 12
     },
     {
       "id": 336,
       "name": "Alma de Cuba",
-      "address": "Via de' Nari, 14",
+      "address": "Corso del Popolo, 243",
       "city_id": 12
     },
     {
       "id": 337,
       "name": "Copper Face Jacks",
-      "address": "Via Tagliamento, 9",
+      "address": "29-30, Harcourt St, Saint Kevin's",
       "city_id": 13
     },
     {
       "id": 338,
       "name": "Krystle",
-      "address": "Via Velletri, 13",
+      "address": "Harcourt St Harcourt St, Saint Kevin's",
       "city_id": 13
     },
     {
       "id": 339,
       "name": "Twenty Two Night Club",
-      "address": "Via de' Nari, 14",
+      "address": "22 Anne St S, Dublin, D02 CH94",
       "city_id": 13
     },
     {
       "id": 340,
       "name": "Space Club",
-      "address": "Via Tagliamento, 9",
+      "address": "Via Palazzuolo, 37",
       "city_id": 14
     },
     {
       "id": 341,
       "name": "Villa Vittoria",
-      "address": "Via Velletri, 13",
+      "address": "V.le Filippo Strozzi, 2",
       "city_id": 14
     },
     {
       "id": 342,
       "name": "Tenax Discoteca",
-      "address": "Via de' Nari, 14",
+      "address": "Via Pratese, 46",
       "city_id": 14
     },
     {
       "id": 343,
       "name": "Gallery Club",
-      "address": "Via Tagliamento, 9",
+      "address": "Aleja Matije Ljubeka",
       "city_id": 15
     },
     {
       "id": 344,
       "name": "Acquarius club Zagreb",
-      "address": "Via Velletri, 13",
+      "address": " Aleja Matije Ljubeka 19",
       "city_id": 15
     },
     {
       "id": 345,
       "name": "OUT Bunker Nightclub",
-      "address": "Via de' Nari, 14",
+      "address": "Ilica 16",
       "city_id": 15
     },
     {
       "id": 346,
       "name": "Kremlin",
-      "address": "Via Tagliamento, 9",
+      "address": "Escadinhas da Praia 5",
       "city_id": 16
     },
     {
       "id": 347,
       "name": "Plateau",
-      "address": "Via Velletri, 13",
+      "address": "Escadinhas da Praia 7",
       "city_id": 16
     },
     {
       "id": 348,
       "name": "K Urban Beach Club",
-      "address": "Via de' Nari, 14",
+      "address": "Cais da Viscondessa",
       "city_id": 16
     },
     {
       "id": 349,
       "name": "Bootshaus",
-      "address": "Via Tagliamento, 9",
+      "address": "Auenweg 173",
       "city_id": 17
     },
     {
       "id": 350,
       "name": "Diamonds Club",
-      "address": "Via Velletri, 13",
+      "address": "Hohenzollernring 90",
       "city_id": 17
     },
     {
       "id": 351,
       "name": "Vanity Club Cologne",
-      "address": "Via de' Nari, 14",
+      "address": "Hohenzollernring 16",
       "city_id": 17
     },
     {
       "id": 352,
       "name": "Opium",
-      "address": "Via Tagliamento, 9",
+      "address": "Pg. Marítim de la Barceloneta, 34",
       "city_id": 18
     },
     {
       "id": 353,
       "name": "Disco City Hall",
-      "address": "Via Velletri, 13",
+      "address": "Rambla de Catalunya, 2",
       "city_id": 18
     },
     {
       "id": 354,
       "name": "Moog",
-      "address": "Via de' Nari, 14",
+      "address": "C/ de l'Arc del Teatre, 3",
       "city_id": 18
     },
     {
       "id": 355,
       "name": "Sala Gold",
-      "address": "Via Tagliamento, 9",
+      "address": "C. Luis de Velázquez, 5",
       "city_id": 19
     },
     {
       "id": 356,
       "name": "Discoteca Anden",
-      "address": "Via Velletri, 13",
+      "address": "Pl. de Uncibay, 8",
       "city_id": 19
     },
     {
       "id": 357,
       "name": "Mirror Malaga",
-      "address": "Via de' Nari, 14",
+      "address": "C. José Denis Belgrano, 19",
       "city_id": 19
     },
     {
       "id": 358,
       "name": "Mya Club",
-      "address": "Via Tagliamento, 9",
+      "address": "Av. del Professor López Piñero, 5",
       "city_id": 20
     },
     {
       "id": 359,
       "name": "MClub",
-      "address": "Via Velletri, 13",
+      "address": "C/ de la Sang, 9",
       "city_id": 20
     },
     {
       "id": 360,
       "name": "Play Club",
-      "address": "Via de' Nari, 14",
+      "address": "C. de Cuba, 8",
       "city_id": 20
     },
     {
       "id": 361,
       "name": "Fauno Notte Club",
-      "address": "Via Tagliamento, 9",
+      "address": "Piazza Torquato Tasso, 13",
       "city_id": 21
     },
     {
       "id": 362,
       "name": "Filou Club",
-      "address": "Via Velletri, 13",
+      "address": "Via Santa Maria della Pietà, 12",
       "city_id": 21
     },
     {
       "id": 363,
-      "name": "Sharivari",
-      "address": "Via de' Nari, 14",
+      "name": "Shot Bar Sorrento",
+      "address": "Via Santa Maria della Pietà, 26",
       "city_id": 21
     },
     {
       "id": 364,
       "name": "Praja Gallipoli",
-      "address": "Via Tagliamento, 9",
+      "address": "Lungomare Galileo Galilei",
       "city_id": 22
     },
     {
       "id": 365,
       "name": "Riobo",
-      "address": "Via Velletri, 13",
+      "address": "Strada Prov.le Lido Conchiglie - Sannicola",
       "city_id": 22
     },
     {
       "id": 366,
       "name": "Ten Gallipoli",
-      "address": "Via de' Nari, 14",
+      "address": "Strada Provinciale 215",
       "city_id": 22
     },
     {
       "id": 367,
       "name": "Lohan Athens Nightclub",
-      "address": "Via Tagliamento, 9",
+      "address": "30, Iera Odos 32",
       "city_id": 23
     },
     {
       "id": 368,
       "name": "DISCO - VINILIO",
-      "address": "Via Velletri, 13",
+      "address": "Pireos 102-104",
       "city_id": 23
     },
     {
       "id": 369,
       "name": "Cinderella",
-      "address": "Via de' Nari, 14",
+      "address": "Leventi 3",
       "city_id": 23
     },
     {
       "id": 370,
       "name": "Guzel",
-      "address": "Via Tagliamento, 9",
+      "address": "Seashore",
       "city_id": 24
     },
     {
       "id": 371,
       "name": "Paradise Beach Club",
-      "address": "Via Velletri, 13",
+      "address": "Paradise Beach, Mikonos 846 00",
       "city_id": 24
     },
     {
       "id": 372,
       "name": "Tropicana Beach Bar",
-      "address": "Via de' Nari, 14",
+      "address": "Paradise beach Post Box 506",
       "city_id": 24
     },
     {
       "id": 373,
       "name": "Moreclub. Lda.",
-      "address": "Via Tagliamento, 9",
+      "address": "R. da Galeria de Paris 68",
       "city_id": 25
     },
     {
       "id": 374,
       "name": "Discoteca Via Rapida",
-      "address": "Via Velletri, 13",
+      "address": "R. Manuel Pinto de Azevedo 567",
       "city_id": 25
     },
     {
       "id": 375,
       "name": "Boite",
-      "address": "Via de' Nari, 14",
+      "address": "R. de Passos Manuel 131",
       "city_id": 25
     },
     {
       "id": 376,
       "name": "OPERA CLUB NICE",
-      "address": "Via Tagliamento, 9",
+      "address": "2 Rue de la Préfecture",
       "city_id": 26
     },
     {
       "id": 377,
       "name": "High Club",
-      "address": "Via Velletri, 13",
+      "address": "45 Prom. des Anglais",
       "city_id": 26
     },
     {
       "id": 378,
       "name": "NOTORIOUS CLUB",
-      "address": "Via de' Nari, 14",
+      "address": "6 Rue Halévy",
       "city_id": 26
     },
     {
       "id": 379,
       "name": "Java Club",
-      "address": "Via Tagliamento, 9",
+      "address": "Quai du Mont-Blanc 19",
       "city_id": 27
     },
     {
       "id": 380,
       "name": "The 7 Night Club",
-      "address": "Via Velletri, 13",
+      "address": "Rue du Levant 3",
       "city_id": 27
     },
     {
       "id": 381,
       "name": "Mambo",
-      "address": "Via de' Nari, 14",
+      "address": "Rue de Monthoux 60",
       "city_id": 27
     },
     {
       "id": 382,
       "name": "RIVA CLUB",
-      "address": "Via Tagliamento, 9",
+      "address": "Via Coroglio, 154",
       "city_id": 28
     },
     {
       "id": 383,
       "name": "Il Fico Eventi",
-      "address": "Via Velletri, 13",
+      "address": "Via Torquato Tasso, 466",
       "city_id": 28
     },
     {
       "id": 384,
       "name": "Accademia Club",
-      "address": "Via de' Nari, 14",
+      "address": "Via Piave, 183",
       "city_id": 28
     },
     {
       "id": 385,
       "name": "Hi Ibiza",
-      "address": "Via Tagliamento, 9",
+      "address": "Platja d'en Bossa",
       "city_id": 29
     },
     {
       "id": 386,
       "name": "Pacha",
-      "address": "Via Velletri, 13",
+      "address": "Av. 8 d'Agost",
       "city_id": 29
     },
     {
       "id": 387,
       "name": "Amnesia",
-      "address": "Via de' Nari, 14",
+      "address": "Ctra. Ibiza a San Antonio, Km 5",
       "city_id": 29
     },
     {
       "id": 388,
       "name": "LA PALMARAIE",
-      "address": "Via Tagliamento, 9",
+      "address": "90 Bd Rabatau",
       "city_id": 30
     },
     {
       "id": 389,
       "name": "POP CLUB MARSEILLE",
-      "address": "Via Velletri, 13",
+      "address": "141 Rte Léon Lachamp",
       "city_id": 30
     },
     {
       "id": 390,
       "name": "DANCETERIA",
-      "address": "Via de' Nari, 14",
+      "address": "18 Rue Saint-Saëns",
       "city_id": 30
     }
   ],
@@ -2109,26 +2133,5 @@
       "id": 12
     }
   ],
-  "reviews": [
-    {
-      "id": 1682448334832,
-      "author": "luca",
-      "text_body": "Gennaro",
-      "title": "mario",
-      "rating": 2.5,
-      "account_id": 9,
-      "city_id": 5,
-      "type": "restaurant"
-    },
-    {
-      "id": 1682448352405,
-      "author": "luca",
-      "text_body": "copenaghen",
-      "title": "mario",
-      "rating": 3.5,
-      "account_id": 9,
-      "city_id": 5,
-      "type": "restaurant"
-    }
-  ]
+  "reviews": []
 }

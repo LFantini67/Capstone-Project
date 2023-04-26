@@ -3,9 +3,6 @@ import { ActivatedRoute } from '@angular/router';
 import { City } from 'src/app/interfaces/city.interface';
 import { CitiesService } from 'src/app/services/cities.service';
 import { HttpClient } from '@angular/common/http';
-import { Restaurant } from 'src/app/interfaces/restaurant.interface';
-import { Interest } from 'src/app/interfaces/interest.interface';
-import { Enjoy } from 'src/app/interfaces/enjoy.interface';
 import { Review } from 'src/app/interfaces/review.interface';
 
 
@@ -16,11 +13,9 @@ import { Review } from 'src/app/interfaces/review.interface';
 })
 export class CityComponent implements OnInit {
 
-  //ale
   cityPosted = window.location.href.split('/').pop();
   cityId = Number(this.cityPosted);
 
-  //flavio
   city: City | undefined
 
   cities!: any;

@@ -1,6 +1,7 @@
 export interface City {
 
   img: string
+  img_copertina: string
   id: number
   location: string
   name: string

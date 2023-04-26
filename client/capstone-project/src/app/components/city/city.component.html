@@ -1,12 +1,16 @@
 <app-navbar></app-navbar>
 
 <div *ngIf="city">
-  <div div class="card-c text-white" style="background-color: #26262a;">
-    <div class="card-body">
-      <h1 class="card-title">{{ city.name }}</h1>
-      <h4 class="card-text fst-italic">{{ city.location }}</h4>
+  <div id="carouselExampleCaptions" class="carousel slide">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="{{ city.img_copertina }}" class="d-block" alt="Cover_city">
+        <div class="carousel-caption d-none text-center d-md-block" style="text-shadow: 0 0 6px rgba(0, 0, 0, 0.8);">
+          <h1>{{ city.name }}</h1>
+          <h4 style="font-style: italic;">{{ city.location }}</h4>
+        </div>
+      </div>
     </div>
-    <img src="{{ city.img }}" class="card-img-bottom" alt="Città">
   </div>
 </div>
 <hr>
@@ -48,7 +52,7 @@
 
     <!-- Ristoranti aggiunti-->
 
-    <div class="carousel-item">
+    <div class="carousel-item" *ngIf="reviews.length > 0">
       <div class="d-flex justify-content-around">
         <div *ngFor="let review of reviews">
           <div *ngIf="review.city_id == cityId && review.type == 'restaurant'">
@@ -210,7 +214,7 @@
 
     <!-- interessi aggiunti -->
 
-    <div class="carousel-item">
+    <div class="carousel-item" *ngIf="reviews.length > 0">
       <div class="d-flex justify-content-around">
         <div *ngFor="let review of reviews">
           <div *ngIf="review.city_id == cityId && review.type == 'interest'">
@@ -355,7 +359,7 @@
 
     <!-- divertimento aggiunto -->
 
-    <div class="carousel-item">
+    <div class="carousel-item" *ngIf="reviews.length > 0">
       <div class="d-flex justify-content-around">
         <div *ngFor="let review of reviews">
           <div *ngIf="review.city_id == cityId && review.type == 'enjoy'">

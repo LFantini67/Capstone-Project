@@ -9,9 +9,6 @@ import { AppComponent } from './app.component';
 import { CitiesComponent } from './components/cities/cities.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { CityComponent } from './components/city/city.component';
-import { RestaurantComponent } from './components/restaurant/restaurant.component';
-import { InterestComponent } from './components/interest/interest.component';
-import { EnjoyComponent } from './components/enjoy/enjoy.component';
 import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { FilterByCapitalPipe } from './pipes/filter-by-capital.pipe';
@@ -24,9 +21,6 @@ import { FilterBySummerPipe } from './pipes/filter-by-summer.pipe';
     CitiesComponent,
     NavbarComponent,
     CityComponent,
-    RestaurantComponent,
-    InterestComponent,
-    EnjoyComponent,
     HeaderComponent,
     FooterComponent,
     FilterByCapitalPipe,
